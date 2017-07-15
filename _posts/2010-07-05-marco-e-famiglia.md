@@ -12,6 +12,6 @@ categories:
   - photographies (mine)
   - "S' aprì"
 ---
-[<img class="aligncenter size-full wp-image-1816" title="00015" src="http://{{ site.url }}/wp-content/uploads/2010/07/00015.jpg" alt="00015" width="276" height="450" srcset="http://{{ site.url }}/wp-content/uploads/2010/07/00015.jpg 276w, http://{{ site.url }}/wp-content/uploads/2010/07/00015-184x300.jpg 184w" sizes="(max-width: 276px) 100vw, 276px" />](http://{{ site.url }}/wp-content/uploads/2010/07/00015.jpg)
+[<img class="aligncenter size-full wp-image-1816" title="00015" src="{{ site.url }}/images/uploads/2010/07/00015.jpg" alt="00015" width="276" height="450" srcset="{{ site.url }}/images/uploads/2010/07/00015.jpg 276w, {{ site.url }}/images/uploads/2010/07/00015-184x300.jpg 184w" sizes="(max-width: 276px) 100vw, 276px" />]({{ site.url }}/images/uploads/2010/07/00015.jpg)
 
 <p style="text-align: center;">

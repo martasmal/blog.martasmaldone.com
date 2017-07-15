@@ -12,4 +12,4 @@ categories:
   - Bruxelles
   - photographies (mine)
 ---
-<img class="aligncenter wp-image-3618" src="http://{{ site.url }}/wp-content/uploads/2010/07/download.jpg" alt="download" width="550" height="358" srcset="http://{{ site.url }}/wp-content/uploads/2010/07/download.jpg 692w, http://{{ site.url }}/wp-content/uploads/2010/07/download-300x195.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" />
+<img class="aligncenter wp-image-3618" src="{{ site.url }}/images/uploads/2010/07/download.jpg" alt="download" width="550" height="358" srcset="{{ site.url }}/images/uploads/2010/07/download.jpg 692w, {{ site.url }}/images/uploads/2010/07/download-300x195.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" />

@@ -11,4 +11,4 @@ categories:
   - NL
   - photographies (mine)
 ---
-[<img class="wp-image-2951 size-full aligncenter" src="http://{{ site.url }}/wp-content/uploads/2015/02/serre2-e1424874598637.jpg" alt="serre2" width="500" height="332" srcset="http://{{ site.url }}/wp-content/uploads/2015/02/serre2-e1424874598637.jpg 500w, http://{{ site.url }}/wp-content/uploads/2015/02/serre2-e1424874598637-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />](http://{{ site.url }}/wp-content/uploads/2015/02/serre2-e1424874598637.jpg)
+[<img class="wp-image-2951 size-full aligncenter" src="{{ site.url }}/images/uploads/2015/02/serre2-e1424874598637.jpg" alt="serre2" width="500" height="332" srcset="{{ site.url }}/images/uploads/2015/02/serre2-e1424874598637.jpg 500w, {{ site.url }}/images/uploads/2015/02/serre2-e1424874598637-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />]({{ site.url }}/images/uploads/2015/02/serre2-e1424874598637.jpg)

@@ -11,4 +11,4 @@ categories:
   - Italia
   - photographies (mine)
 ---
-<img class="aligncenter size-full wp-image-3660" src="http://{{ site.url }}/wp-content/uploads/2009/04/roma1-1.jpg" alt="roma1" width="425" height="283" srcset="http://{{ site.url }}/wp-content/uploads/2009/04/roma1-1.jpg 425w, http://{{ site.url }}/wp-content/uploads/2009/04/roma1-1-300x200.jpg 300w, http://{{ site.url }}/wp-content/uploads/2009/04/roma1-1-330x220.jpg 330w" sizes="(max-width: 425px) 100vw, 425px" />
+<img class="aligncenter size-full wp-image-3660" src="{{ site.url }}/images/uploads/2009/04/roma1-1.jpg" alt="roma1" width="425" height="283" srcset="{{ site.url }}/images/uploads/2009/04/roma1-1.jpg 425w, {{ site.url }}/images/uploads/2009/04/roma1-1-300x200.jpg 300w, {{ site.url }}/images/uploads/2009/04/roma1-1-330x220.jpg 330w" sizes="(max-width: 425px) 100vw, 425px" />

@@ -11,4 +11,4 @@ categories:
   - photographies (mine)
   - Schuman_City
 ---
-[<img class="aligncenter wp-image-845 size-full" title="shumann" src="http://{{ site.url }}/wp-content/uploads/2009/07/shumann.jpeg" alt="shumann" width="417" height="261" srcset="http://{{ site.url }}/wp-content/uploads/2009/07/shumann.jpeg 417w, http://{{ site.url }}/wp-content/uploads/2009/07/shumann-300x188.jpeg 300w" sizes="(max-width: 417px) 100vw, 417px" />](http://{{ site.url }}/wp-content/uploads/2009/07/shumann.jpeg)
+[<img class="aligncenter wp-image-845 size-full" title="shumann" src="{{ site.url }}/images/uploads/2009/07/shumann.jpeg" alt="shumann" width="417" height="261" srcset="{{ site.url }}/images/uploads/2009/07/shumann.jpeg 417w, {{ site.url }}/images/uploads/2009/07/shumann-300x188.jpeg 300w" sizes="(max-width: 417px) 100vw, 417px" />]({{ site.url }}/images/uploads/2009/07/shumann.jpeg)

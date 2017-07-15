@@ -11,4 +11,4 @@ categories:
   - Belgique
   - photographies (mine)
 ---
-<img class="aligncenter wp-image-3736" src="http://{{ site.url }}/wp-content/uploads/2016/10/anversa.jpg" alt="anversa" width="550" height="357" srcset="http://{{ site.url }}/wp-content/uploads/2016/10/anversa.jpg 694w, http://{{ site.url }}/wp-content/uploads/2016/10/anversa-300x195.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" />
+<img class="aligncenter wp-image-3736" src="{{ site.url }}/images/uploads/2016/10/anversa.jpg" alt="anversa" width="550" height="357" srcset="{{ site.url }}/images/uploads/2016/10/anversa.jpg 694w, {{ site.url }}/images/uploads/2016/10/anversa-300x195.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" />

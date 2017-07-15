@@ -11,4 +11,4 @@ categories:
   - photographies (mine)
   - travel
 ---
-[<img class="aligncenter size-full wp-image-1429" title="im005" src="http://{{ site.url }}/wp-content/uploads/2010/06/im005.jpg" alt="im005" width="416" height="261" srcset="http://{{ site.url }}/wp-content/uploads/2010/06/im005.jpg 416w, http://{{ site.url }}/wp-content/uploads/2010/06/im005-300x188.jpg 300w" sizes="(max-width: 416px) 100vw, 416px" />](http://{{ site.url }}/wp-content/uploads/2010/06/im005.jpg)
+[<img class="aligncenter size-full wp-image-1429" title="im005" src="{{ site.url }}/images/uploads/2010/06/im005.jpg" alt="im005" width="416" height="261" srcset="{{ site.url }}/images/uploads/2010/06/im005.jpg 416w, {{ site.url }}/images/uploads/2010/06/im005-300x188.jpg 300w" sizes="(max-width: 416px) 100vw, 416px" />]({{ site.url }}/images/uploads/2010/06/im005.jpg)

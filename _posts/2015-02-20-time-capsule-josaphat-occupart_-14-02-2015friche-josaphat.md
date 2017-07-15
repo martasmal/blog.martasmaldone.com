@@ -31,6 +31,6 @@ categories:
 
 <div id="timecapsulejosaphat.head.142343083875" class="text resizable object">
   <p style="text-align: left;">
-    <a href="http://{{ site.url }}/index.php/time-capsule-josaphat-bxl_-14-02-2015friche-josaphat/ok/"><img class="aligncenter wp-image-3179 size-full" src="http://{{ site.url }}/wp-content/uploads/2016/09/ok.jpg" alt="time capsule josaphat" width="958" height="548" srcset="http://{{ site.url }}/wp-content/uploads/2016/09/ok.jpg 958w, http://{{ site.url }}/wp-content/uploads/2016/09/ok-300x172.jpg 300w, http://{{ site.url }}/wp-content/uploads/2016/09/ok-768x439.jpg 768w" sizes="(max-width: 958px) 100vw, 958px" /></a>
+    <a href="http://{{ site.url }}/index.php/time-capsule-josaphat-bxl_-14-02-2015friche-josaphat/ok/"><img class="aligncenter wp-image-3179 size-full" src="{{ site.url }}/images/uploads/2016/09/ok.jpg" alt="time capsule josaphat" width="958" height="548" srcset="{{ site.url }}/images/uploads/2016/09/ok.jpg 958w, {{ site.url }}/images/uploads/2016/09/ok-300x172.jpg 300w, {{ site.url }}/images/uploads/2016/09/ok-768x439.jpg 768w" sizes="(max-width: 958px) 100vw, 958px" /></a>
   </p>
 </div>

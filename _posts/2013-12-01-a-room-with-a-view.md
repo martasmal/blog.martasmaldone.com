@@ -13,5 +13,5 @@ categories:
   - travel
 ---
 <p style="text-align: center;">
-  <img class="aligncenter wp-image-3504" src="http://{{ site.url }}/wp-content/uploads/2013/12/malo-1.jpg" alt="malo" width="434" height="325" srcset="http://{{ site.url }}/wp-content/uploads/2013/12/malo-1.jpg 567w, http://{{ site.url }}/wp-content/uploads/2013/12/malo-1-300x225.jpg 300w" sizes="(max-width: 434px) 100vw, 434px" />
+  <img class="aligncenter wp-image-3504" src="{{ site.url }}/images/uploads/2013/12/malo-1.jpg" alt="malo" width="434" height="325" srcset="{{ site.url }}/images/uploads/2013/12/malo-1.jpg 567w, {{ site.url }}/images/uploads/2013/12/malo-1-300x225.jpg 300w" sizes="(max-width: 434px) 100vw, 434px" />
 </p>

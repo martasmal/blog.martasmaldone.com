@@ -12,4 +12,4 @@ categories:
   - photographies (mine)
   - travel
 ---
-<img class="aligncenter wp-image-3103 size-full" src="http://{{ site.url }}/wp-content/uploads/2016/04/shibuonsen-640x480rit-e1473678746505.jpg" width="500" height="375" />
+<img class="aligncenter wp-image-3103 size-full" src="{{ site.url }}/images/uploads/2016/04/shibuonsen-640x480rit-e1473678746505.jpg" width="500" height="375" />

@@ -24,4 +24,4 @@ categories:
   - photographies (mine)
   - r_itals
 ---
-[<img class="aligncenter wp-image-411 size-full" title="_mg_2209" src="http://{{ site.url }}/wp-content/uploads/2009/06/mg_2209.jpg" alt="_mg_2209" width="283" height="425" srcset="http://{{ site.url }}/wp-content/uploads/2009/06/mg_2209.jpg 283w, http://{{ site.url }}/wp-content/uploads/2009/06/mg_2209-200x300.jpg 200w" sizes="(max-width: 283px) 100vw, 283px" />](http://{{ site.url }}/wp-content/uploads/2009/06/mg_2209.jpg)
+[<img class="aligncenter wp-image-411 size-full" title="_mg_2209" src="{{ site.url }}/images/uploads/2009/06/mg_2209.jpg" alt="_mg_2209" width="283" height="425" srcset="{{ site.url }}/images/uploads/2009/06/mg_2209.jpg 283w, {{ site.url }}/images/uploads/2009/06/mg_2209-200x300.jpg 200w" sizes="(max-width: 283px) 100vw, 283px" />]({{ site.url }}/images/uploads/2009/06/mg_2209.jpg)

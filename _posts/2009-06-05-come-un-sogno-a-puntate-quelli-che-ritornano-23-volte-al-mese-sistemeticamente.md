@@ -12,5 +12,5 @@ categories:
   - maps
 ---
 <p style="text-align: center;">
-  <a href="http://{{ site.url }}/wp-content/uploads/2009/06/00141.jpg"><img class="aligncenter  wp-image-1967" title="0014" src="http://{{ site.url }}/wp-content/uploads/2009/06/00141.jpg" alt="0014" width="458" height="302" srcset="http://{{ site.url }}/wp-content/uploads/2009/06/00141.jpg 509w, http://{{ site.url }}/wp-content/uploads/2009/06/00141-300x198.jpg 300w" sizes="(max-width: 458px) 100vw, 458px" /></a>
+  <a href="{{ site.url }}/images/uploads/2009/06/00141.jpg"><img class="aligncenter  wp-image-1967" title="0014" src="{{ site.url }}/images/uploads/2009/06/00141.jpg" alt="0014" width="458" height="302" srcset="{{ site.url }}/images/uploads/2009/06/00141.jpg 509w, {{ site.url }}/images/uploads/2009/06/00141-300x198.jpg 300w" sizes="(max-width: 458px) 100vw, 458px" /></a>
 </p>

@@ -10,4 +10,4 @@ categories:
   - Appunti
   - photographies (not mine)
 ---
-[<img class="aligncenter wp-image-3507 size-large" src="http://{{ site.url }}/wp-content/uploads/2012/09/128392-hd-1024x690.jpg" alt="128392-hd" width="697" height="470" srcset="http://{{ site.url }}/wp-content/uploads/2012/09/128392-hd-1024x690.jpg 1024w, http://{{ site.url }}/wp-content/uploads/2012/09/128392-hd-300x202.jpg 300w, http://{{ site.url }}/wp-content/uploads/2012/09/128392-hd-768x518.jpg 768w" sizes="(max-width: 697px) 100vw, 697px" />](http://{{ site.url }}/wp-content/uploads/2012/09/128392-hd.jpg)
+[<img class="aligncenter wp-image-3507 size-large" src="{{ site.url }}/images/uploads/2012/09/128392-hd-1024x690.jpg" alt="128392-hd" width="697" height="470" srcset="{{ site.url }}/images/uploads/2012/09/128392-hd-1024x690.jpg 1024w, {{ site.url }}/images/uploads/2012/09/128392-hd-300x202.jpg 300w, {{ site.url }}/images/uploads/2012/09/128392-hd-768x518.jpg 768w" sizes="(max-width: 697px) 100vw, 697px" />]({{ site.url }}/images/uploads/2012/09/128392-hd.jpg)

@@ -12,4 +12,4 @@ categories:
   - photographies (mine)
   - "S' aprì"
 ---
-<img class="aligncenter wp-image-3466" src="http://{{ site.url }}/wp-content/uploads/2015/12/Villamare_01.jpg" alt="Villamare" width="600" height="400" srcset="http://{{ site.url }}/wp-content/uploads/2015/12/Villamare_01.jpg 750w, http://{{ site.url }}/wp-content/uploads/2015/12/Villamare_01-300x200.jpg 300w, http://{{ site.url }}/wp-content/uploads/2015/12/Villamare_01-330x220.jpg 330w" sizes="(max-width: 600px) 100vw, 600px" />
+<img class="aligncenter wp-image-3466" src="{{ site.url }}/images/uploads/2015/12/Villamare_01.jpg" alt="Villamare" width="600" height="400" srcset="{{ site.url }}/images/uploads/2015/12/Villamare_01.jpg 750w, {{ site.url }}/images/uploads/2015/12/Villamare_01-300x200.jpg 300w, {{ site.url }}/images/uploads/2015/12/Villamare_01-330x220.jpg 330w" sizes="(max-width: 600px) 100vw, 600px" />

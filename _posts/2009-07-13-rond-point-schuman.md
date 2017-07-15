@@ -12,4 +12,4 @@ categories:
   - photographies (mine)
   - Schuman_City
 ---
-<img class="aligncenter wp-image-3906" src="http://{{ site.url }}/wp-content/uploads/2016/10/shuman3.jpg" alt="shuman3" width="580" height="380" srcset="http://{{ site.url }}/wp-content/uploads/2016/10/shuman3.jpg 861w, http://{{ site.url }}/wp-content/uploads/2016/10/shuman3-300x197.jpg 300w, http://{{ site.url }}/wp-content/uploads/2016/10/shuman3-768x503.jpg 768w" sizes="(max-width: 580px) 100vw, 580px" />
+<img class="aligncenter wp-image-3906" src="{{ site.url }}/images/uploads/2016/10/shuman3.jpg" alt="shuman3" width="580" height="380" srcset="{{ site.url }}/images/uploads/2016/10/shuman3.jpg 861w, {{ site.url }}/images/uploads/2016/10/shuman3-300x197.jpg 300w, {{ site.url }}/images/uploads/2016/10/shuman3-768x503.jpg 768w" sizes="(max-width: 580px) 100vw, 580px" />

@@ -12,5 +12,5 @@ categories:
   - photographies (mine)
 ---
 <p style="text-align: center;">
-  <a href="http://{{ site.url }}/wp-content/uploads/2009/01/00027-1.jpg"><img class="aligncenter wp-image-2381 size-full" title="00027" src="http://{{ site.url }}/wp-content/uploads/2009/01/00027-1.jpg" width="567" height="375" srcset="http://{{ site.url }}/wp-content/uploads/2009/01/00027-1.jpg 567w, http://{{ site.url }}/wp-content/uploads/2009/01/00027-1-300x198.jpg 300w" sizes="(max-width: 567px) 100vw, 567px" /></a>
+  <a href="{{ site.url }}/images/uploads/2009/01/00027-1.jpg"><img class="aligncenter wp-image-2381 size-full" title="00027" src="{{ site.url }}/images/uploads/2009/01/00027-1.jpg" width="567" height="375" srcset="{{ site.url }}/images/uploads/2009/01/00027-1.jpg 567w, {{ site.url }}/images/uploads/2009/01/00027-1-300x198.jpg 300w" sizes="(max-width: 567px) 100vw, 567px" /></a>
 </p>

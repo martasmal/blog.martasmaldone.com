@@ -12,4 +12,4 @@ categories:
   - photographies (mine)
   - "S' aprì"
 ---
-[<img class="aligncenter wp-image-3380" src="http://{{ site.url }}/wp-content/uploads/2016/09/03.jpg" alt="03" width="600" height="419" srcset="http://{{ site.url }}/wp-content/uploads/2016/09/03.jpg 645w, http://{{ site.url }}/wp-content/uploads/2016/09/03-300x209.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](http://{{ site.url }}/wp-content/uploads/2016/09/03.jpg)
+[<img class="aligncenter wp-image-3380" src="{{ site.url }}/images/uploads/2016/09/03.jpg" alt="03" width="600" height="419" srcset="{{ site.url }}/images/uploads/2016/09/03.jpg 645w, {{ site.url }}/images/uploads/2016/09/03-300x209.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />]({{ site.url }}/images/uploads/2016/09/03.jpg)

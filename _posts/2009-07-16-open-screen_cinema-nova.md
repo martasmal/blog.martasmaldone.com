@@ -11,4 +11,4 @@ categories:
   - Bruxelles
   - photographies (mine)
 ---
-[<img class="aligncenter wp-image-920 size-full" title="nova" src="http://{{ site.url }}/wp-content/uploads/2009/09/nova.jpeg" alt="nova" width="425" height="91" srcset="http://{{ site.url }}/wp-content/uploads/2009/09/nova.jpeg 425w, http://{{ site.url }}/wp-content/uploads/2009/09/nova-300x64.jpeg 300w" sizes="(max-width: 425px) 100vw, 425px" />](http://{{ site.url }}/wp-content/uploads/2009/09/nova.jpeg)
+[<img class="aligncenter wp-image-920 size-full" title="nova" src="{{ site.url }}/images/uploads/2009/09/nova.jpeg" alt="nova" width="425" height="91" srcset="{{ site.url }}/images/uploads/2009/09/nova.jpeg 425w, {{ site.url }}/images/uploads/2009/09/nova-300x64.jpeg 300w" sizes="(max-width: 425px) 100vw, 425px" />]({{ site.url }}/images/uploads/2009/09/nova.jpeg)

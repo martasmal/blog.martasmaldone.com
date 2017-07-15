@@ -11,4 +11,4 @@ categories:
   - NL
   - photographies (mine)
 ---
-<img class="aligncenter size-full wp-image-3577" src="http://{{ site.url }}/wp-content/uploads/2009/06/maa_011-1.jpg" alt="maa_011" width="283" height="425" srcset="http://{{ site.url }}/wp-content/uploads/2009/06/maa_011-1.jpg 283w, http://{{ site.url }}/wp-content/uploads/2009/06/maa_011-1-200x300.jpg 200w" sizes="(max-width: 283px) 100vw, 283px" />
+<img class="aligncenter size-full wp-image-3577" src="{{ site.url }}/images/uploads/2009/06/maa_011-1.jpg" alt="maa_011" width="283" height="425" srcset="{{ site.url }}/images/uploads/2009/06/maa_011-1.jpg 283w, {{ site.url }}/images/uploads/2009/06/maa_011-1-200x300.jpg 200w" sizes="(max-width: 283px) 100vw, 283px" />

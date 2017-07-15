@@ -14,9 +14,9 @@ categories:
 ---
 <p style="text-align: center;">
   <p style="text-align: center;">
-    <img class="aligncenter size-full wp-image-3517" src="http://{{ site.url }}/wp-content/uploads/2012/09/hotel-1.jpg" alt="hotel" width="567" height="375" srcset="http://{{ site.url }}/wp-content/uploads/2012/09/hotel-1.jpg 567w, http://{{ site.url }}/wp-content/uploads/2012/09/hotel-1-300x198.jpg 300w" sizes="(max-width: 567px) 100vw, 567px" />
+    <img class="aligncenter size-full wp-image-3517" src="{{ site.url }}/images/uploads/2012/09/hotel-1.jpg" alt="hotel" width="567" height="375" srcset="{{ site.url }}/images/uploads/2012/09/hotel-1.jpg 567w, {{ site.url }}/images/uploads/2012/09/hotel-1-300x198.jpg 300w" sizes="(max-width: 567px) 100vw, 567px" />
   </p>
   
   <p style="text-align: center;">
-    <a href="http://{{ site.url }}/wp-content/uploads/2012/09/breakfast.jpg"><img class="aligncenter wp-image-2614 size-full" title="breakfast" src="http://{{ site.url }}/wp-content/uploads/2012/09/breakfast.jpg" width="567" height="340" srcset="http://{{ site.url }}/wp-content/uploads/2012/09/breakfast.jpg 567w, http://{{ site.url }}/wp-content/uploads/2012/09/breakfast-300x180.jpg 300w" sizes="(max-width: 567px) 100vw, 567px" /></a>
+    <a href="{{ site.url }}/images/uploads/2012/09/breakfast.jpg"><img class="aligncenter wp-image-2614 size-full" title="breakfast" src="{{ site.url }}/images/uploads/2012/09/breakfast.jpg" width="567" height="340" srcset="{{ site.url }}/images/uploads/2012/09/breakfast.jpg 567w, {{ site.url }}/images/uploads/2012/09/breakfast-300x180.jpg 300w" sizes="(max-width: 567px) 100vw, 567px" /></a>
   </p>

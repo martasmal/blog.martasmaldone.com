@@ -13,7 +13,7 @@ categories:
   - photographies (mine)
 ---
 <p style="text-align: center;">
-  <a href="http://{{ site.url }}/wp-content/uploads/2009/05/007.jpg"><img class="aligncenter size-full wp-image-2105" title="007" src="http://{{ site.url }}/wp-content/uploads/2009/05/007.jpg" alt="007" width="529" height="329" srcset="http://{{ site.url }}/wp-content/uploads/2009/05/007.jpg 726w, http://{{ site.url }}/wp-content/uploads/2009/05/007-300x186.jpg 300w" sizes="(max-width: 529px) 100vw, 529px" /></a>
+  <a href="{{ site.url }}/images/uploads/2009/05/007.jpg"><img class="aligncenter size-full wp-image-2105" title="007" src="{{ site.url }}/images/uploads/2009/05/007.jpg" alt="007" width="529" height="329" srcset="{{ site.url }}/images/uploads/2009/05/007.jpg 726w, {{ site.url }}/images/uploads/2009/05/007-300x186.jpg 300w" sizes="(max-width: 529px) 100vw, 529px" /></a>
 </p>
 
 [

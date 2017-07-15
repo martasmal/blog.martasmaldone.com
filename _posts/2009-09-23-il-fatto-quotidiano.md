@@ -10,5 +10,5 @@ categories:
   - Italia
 ---
 <p style="text-align: center;">
-  <a href="http://{{ site.url }}/wp-uploads/2009/10/Capture-4.png"><img class="aligncenter size-full wp-image-1117" title="Capture-4" src="http://{{ site.url }}/wp-uploads/2009/10/Capture-4.png" alt="Capture-4" width="172" height="254" srcset="http://{{ site.url }}/wp-content/uploads/2009/10/Capture-4.png 410w, http://{{ site.url }}/wp-content/uploads/2009/10/Capture-4-204x300.png 204w" sizes="(max-width: 172px) 100vw, 172px" /></a>
+  <a href="http://{{ site.url }}/wp-uploads/2009/10/Capture-4.png"><img class="aligncenter size-full wp-image-1117" title="Capture-4" src="http://{{ site.url }}/wp-uploads/2009/10/Capture-4.png" alt="Capture-4" width="172" height="254" srcset="{{ site.url }}/images/uploads/2009/10/Capture-4.png 410w, {{ site.url }}/images/uploads/2009/10/Capture-4-204x300.png 204w" sizes="(max-width: 172px) 100vw, 172px" /></a>
 </p>

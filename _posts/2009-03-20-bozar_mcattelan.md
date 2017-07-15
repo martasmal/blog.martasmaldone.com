@@ -12,4 +12,4 @@ categories:
   - expo
   - photographies (mine)
 ---
-[<img class="aligncenter size-full wp-image-1665" title="0004" src="http://{{ site.url }}/wp-content/uploads/2009/03/0004.jpg" alt="0004" width="435" height="270" srcset="http://{{ site.url }}/wp-content/uploads/2009/03/0004.jpg 544w, http://{{ site.url }}/wp-content/uploads/2009/03/0004-300x186.jpg 300w" sizes="(max-width: 435px) 100vw, 435px" />](http://{{ site.url }}/wp-content/uploads/2009/03/0004.jpg)
+[<img class="aligncenter size-full wp-image-1665" title="0004" src="{{ site.url }}/images/uploads/2009/03/0004.jpg" alt="0004" width="435" height="270" srcset="{{ site.url }}/images/uploads/2009/03/0004.jpg 544w, {{ site.url }}/images/uploads/2009/03/0004-300x186.jpg 300w" sizes="(max-width: 435px) 100vw, 435px" />]({{ site.url }}/images/uploads/2009/03/0004.jpg)

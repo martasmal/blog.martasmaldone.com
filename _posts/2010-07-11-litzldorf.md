@@ -12,4 +12,4 @@ categories:
   - POlaroid
   - travel
 ---
-[<img class="aligncenter size-full wp-image-1458" title="pola1" src="http://{{ site.url }}/wp-content/uploads/2010/07/pola1.jpeg" alt="pola1" width="408" height="510" srcset="http://{{ site.url }}/wp-content/uploads/2010/07/pola1.jpeg 408w, http://{{ site.url }}/wp-content/uploads/2010/07/pola1-240x300.jpeg 240w" sizes="(max-width: 408px) 100vw, 408px" />](http://{{ site.url }}/wp-content/uploads/2010/07/pola1.jpeg)
+[<img class="aligncenter size-full wp-image-1458" title="pola1" src="{{ site.url }}/images/uploads/2010/07/pola1.jpeg" alt="pola1" width="408" height="510" srcset="{{ site.url }}/images/uploads/2010/07/pola1.jpeg 408w, {{ site.url }}/images/uploads/2010/07/pola1-240x300.jpeg 240w" sizes="(max-width: 408px) 100vw, 408px" />]({{ site.url }}/images/uploads/2010/07/pola1.jpeg)

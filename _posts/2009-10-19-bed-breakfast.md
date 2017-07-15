@@ -12,4 +12,4 @@ categories:
   - NL
   - photographies (mine)
 ---
-[<img class="aligncenter wp-image-2900" src="http://{{ site.url }}/wp-content/uploads/2009/10/utrecht11.jpg" alt="utrecht11" width="340" height="500" srcset="http://{{ site.url }}/wp-content/uploads/2009/10/utrecht11.jpg 572w, http://{{ site.url }}/wp-content/uploads/2009/10/utrecht11-204x300.jpg 204w" sizes="(max-width: 340px) 100vw, 340px" />](http://{{ site.url }}/wp-content/uploads/2009/10/utrecht11.jpg)
+[<img class="aligncenter wp-image-2900" src="{{ site.url }}/images/uploads/2009/10/utrecht11.jpg" alt="utrecht11" width="340" height="500" srcset="{{ site.url }}/images/uploads/2009/10/utrecht11.jpg 572w, {{ site.url }}/images/uploads/2009/10/utrecht11-204x300.jpg 204w" sizes="(max-width: 340px) 100vw, 340px" />]({{ site.url }}/images/uploads/2009/10/utrecht11.jpg)

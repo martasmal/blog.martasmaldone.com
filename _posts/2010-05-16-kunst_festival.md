@@ -11,4 +11,4 @@ categories:
   - Bruxelles
   - photographies (mine)
 ---
-<img class="aligncenter size-full wp-image-3623" src="http://{{ site.url }}/wp-content/uploads/2010/05/00028-1.jpg" alt="00028" width="567" height="374" srcset="http://{{ site.url }}/wp-content/uploads/2010/05/00028-1.jpg 567w, http://{{ site.url }}/wp-content/uploads/2010/05/00028-1-300x198.jpg 300w" sizes="(max-width: 567px) 100vw, 567px" />
+<img class="aligncenter size-full wp-image-3623" src="{{ site.url }}/images/uploads/2010/05/00028-1.jpg" alt="00028" width="567" height="374" srcset="{{ site.url }}/images/uploads/2010/05/00028-1.jpg 567w, {{ site.url }}/images/uploads/2010/05/00028-1-300x198.jpg 300w" sizes="(max-width: 567px) 100vw, 567px" />

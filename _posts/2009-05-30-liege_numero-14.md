@@ -24,5 +24,5 @@ categories:
   - photographies (mine)
 ---
 <p style="text-align: center;">
-  <a href="http://{{ site.url }}/wp-content/uploads/2009/05/008.jpg"><img class="aligncenter size-full wp-image-2123" title="008" src="http://{{ site.url }}/wp-content/uploads/2009/05/008.jpg" alt="008" width="510" height="326" srcset="http://{{ site.url }}/wp-content/uploads/2009/05/008.jpg 567w, http://{{ site.url }}/wp-content/uploads/2009/05/008-300x192.jpg 300w" sizes="(max-width: 510px) 100vw, 510px" /></a>
+  <a href="{{ site.url }}/images/uploads/2009/05/008.jpg"><img class="aligncenter size-full wp-image-2123" title="008" src="{{ site.url }}/images/uploads/2009/05/008.jpg" alt="008" width="510" height="326" srcset="{{ site.url }}/images/uploads/2009/05/008.jpg 567w, {{ site.url }}/images/uploads/2009/05/008-300x192.jpg 300w" sizes="(max-width: 510px) 100vw, 510px" /></a>
 </p>

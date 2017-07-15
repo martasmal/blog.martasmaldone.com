@@ -9,6 +9,6 @@ guid: http://localhost/wordpress/?p=729
 categories:
   - r_itals
 ---
-[<img class="size-full wp-image-728 alignleft" title="coniugi_arnolfini_eyck_0" src="http://{{ site.url }}/wp-uploads/2009/07/coniugi_arnolfini_eyck_0.jpg" alt="coniugi_arnolfini_eyck_0" width="298" height="406" srcset="http://{{ site.url }}/wp-content/uploads/2009/07/coniugi_arnolfini_eyck_0.jpg 425w, http://{{ site.url }}/wp-content/uploads/2009/07/coniugi_arnolfini_eyck_0-220x300.jpg 220w" sizes="(max-width: 298px) 100vw, 298px" />](http://{{ site.url }}/wp-uploads/2009/07/coniugi_arnolfini_eyck_0.jpg)
+[<img class="size-full wp-image-728 alignleft" title="coniugi_arnolfini_eyck_0" src="http://{{ site.url }}/wp-uploads/2009/07/coniugi_arnolfini_eyck_0.jpg" alt="coniugi_arnolfini_eyck_0" width="298" height="406" srcset="{{ site.url }}/images/uploads/2009/07/coniugi_arnolfini_eyck_0.jpg 425w, {{ site.url }}/images/uploads/2009/07/coniugi_arnolfini_eyck_0-220x300.jpg 220w" sizes="(max-width: 298px) 100vw, 298px" />](http://{{ site.url }}/wp-uploads/2009/07/coniugi_arnolfini_eyck_0.jpg)
 
 ![](file:///tmp/moz-screenshot.jpg)

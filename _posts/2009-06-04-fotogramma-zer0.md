@@ -25,5 +25,5 @@ categories:
   - r_itals
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-3663" src="http://{{ site.url }}/wp-content/uploads/2009/06/blegny001-1.jpg" alt="blegny001" width="425" height="271" srcset="http://{{ site.url }}/wp-content/uploads/2009/06/blegny001-1.jpg 425w, http://{{ site.url }}/wp-content/uploads/2009/06/blegny001-1-300x191.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />
+  <img class="aligncenter size-full wp-image-3663" src="{{ site.url }}/images/uploads/2009/06/blegny001-1.jpg" alt="blegny001" width="425" height="271" srcset="{{ site.url }}/images/uploads/2009/06/blegny001-1.jpg 425w, {{ site.url }}/images/uploads/2009/06/blegny001-1-300x191.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />
 </p>

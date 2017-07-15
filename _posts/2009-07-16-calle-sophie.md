@@ -23,5 +23,5 @@ categories:
   - expo
 ---
 <p style="text-align: center;">
-  <a href="http://{{ site.url }}/wp-content/uploads/2009/07/calle.jpeg"><img class="aligncenter wp-image-882 size-full" title="calle" src="http://{{ site.url }}/wp-content/uploads/2009/07/calle.jpeg" alt="calle" width="301" height="425" srcset="http://{{ site.url }}/wp-content/uploads/2009/07/calle.jpeg 301w, http://{{ site.url }}/wp-content/uploads/2009/07/calle-212x300.jpeg 212w" sizes="(max-width: 301px) 100vw, 301px" /></a>
+  <a href="{{ site.url }}/images/uploads/2009/07/calle.jpeg"><img class="aligncenter wp-image-882 size-full" title="calle" src="{{ site.url }}/images/uploads/2009/07/calle.jpeg" alt="calle" width="301" height="425" srcset="{{ site.url }}/images/uploads/2009/07/calle.jpeg 301w, {{ site.url }}/images/uploads/2009/07/calle-212x300.jpeg 212w" sizes="(max-width: 301px) 100vw, 301px" /></a>
 </p>

@@ -11,6 +11,6 @@ categories:
   - Bruxelles
   - photographies (mine)
 ---
-[<img class="aligncenter size-full wp-image-1528" title="mc" src="http://{{ site.url }}/wp-content/uploads/2009/03/mc.jpg" alt="mc" width="425" height="283" srcset="http://{{ site.url }}/wp-content/uploads/2009/03/mc.jpg 425w, http://{{ site.url }}/wp-content/uploads/2009/03/mc-300x200.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />](http://{{ site.url }}/wp-content/uploads/2009/03/mc.jpg)
+[<img class="aligncenter size-full wp-image-1528" title="mc" src="{{ site.url }}/images/uploads/2009/03/mc.jpg" alt="mc" width="425" height="283" srcset="{{ site.url }}/images/uploads/2009/03/mc.jpg 425w, {{ site.url }}/images/uploads/2009/03/mc-300x200.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />]({{ site.url }}/images/uploads/2009/03/mc.jpg)
 
-[<img class="aligncenter size-full wp-image-1544" title="mc" src="http://{{ site.url }}/wp-content/uploads/2009/03/mc1.jpg" alt="mc" width="425" height="283" srcset="http://{{ site.url }}/wp-content/uploads/2009/03/mc1.jpg 425w, http://{{ site.url }}/wp-content/uploads/2009/03/mc1-300x200.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />](http://{{ site.url }}/wp-content/uploads/2009/03/mc1.jpg)
+[<img class="aligncenter size-full wp-image-1544" title="mc" src="{{ site.url }}/images/uploads/2009/03/mc1.jpg" alt="mc" width="425" height="283" srcset="{{ site.url }}/images/uploads/2009/03/mc1.jpg 425w, {{ site.url }}/images/uploads/2009/03/mc1-300x200.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />]({{ site.url }}/images/uploads/2009/03/mc1.jpg)

@@ -13,8 +13,8 @@ categories:
   - photographies (mine)
   - travel
 ---
-[<img class="aligncenter wp-image-1404 size-full" title="utre" src="http://{{ site.url }}/wp-content/uploads/2009/10/utre.jpg" alt="utre" width="425" height="276" srcset="http://{{ site.url }}/wp-content/uploads/2009/10/utre.jpg 425w, http://{{ site.url }}/wp-content/uploads/2009/10/utre-300x195.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />](http://{{ site.url }}/wp-content/uploads/2009/10/utre.jpg)
+[<img class="aligncenter wp-image-1404 size-full" title="utre" src="{{ site.url }}/images/uploads/2009/10/utre.jpg" alt="utre" width="425" height="276" srcset="{{ site.url }}/images/uploads/2009/10/utre.jpg 425w, {{ site.url }}/images/uploads/2009/10/utre-300x195.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />]({{ site.url }}/images/uploads/2009/10/utre.jpg)
 
-[<img class="aligncenter wp-image-2903" src="http://{{ site.url }}/wp-content/uploads/2009/10/utrecht9.jpg" alt="utrecht9" width="425" height="281" />](http://{{ site.url }}/wp-content/uploads/2009/10/utrecht9-e1474231894760.jpg)
+[<img class="aligncenter wp-image-2903" src="{{ site.url }}/images/uploads/2009/10/utrecht9.jpg" alt="utrecht9" width="425" height="281" />]({{ site.url }}/images/uploads/2009/10/utrecht9-e1474231894760.jpg)
 
-[<img class="aligncenter wp-image-2902" src="http://{{ site.url }}/wp-content/uploads/2009/10/utrecht8.jpg" alt="utrecht8" width="425" height="288" srcset="http://{{ site.url }}/wp-content/uploads/2009/10/utrecht8.jpg 840w, http://{{ site.url }}/wp-content/uploads/2009/10/utrecht8-300x204.jpg 300w, http://{{ site.url }}/wp-content/uploads/2009/10/utrecht8-768x521.jpg 768w" sizes="(max-width: 425px) 100vw, 425px" />](http://{{ site.url }}/wp-content/uploads/2009/10/utrecht8.jpg)
+[<img class="aligncenter wp-image-2902" src="{{ site.url }}/images/uploads/2009/10/utrecht8.jpg" alt="utrecht8" width="425" height="288" srcset="{{ site.url }}/images/uploads/2009/10/utrecht8.jpg 840w, {{ site.url }}/images/uploads/2009/10/utrecht8-300x204.jpg 300w, {{ site.url }}/images/uploads/2009/10/utrecht8-768x521.jpg 768w" sizes="(max-width: 425px) 100vw, 425px" />]({{ site.url }}/images/uploads/2009/10/utrecht8.jpg)

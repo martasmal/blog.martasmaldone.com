@@ -12,4 +12,4 @@ categories:
   - photographies (mine)
   - travel
 ---
-<img class="aligncenter wp-image-3069 size-full" src="http://{{ site.url }}/wp-content/uploads/2016/04/MG_3164rit-1-e1468916153397.jpg" alt="_MG_3164rit" width="400" height="600" />
+<img class="aligncenter wp-image-3069 size-full" src="{{ site.url }}/images/uploads/2016/04/MG_3164rit-1-e1468916153397.jpg" alt="_MG_3164rit" width="400" height="600" />

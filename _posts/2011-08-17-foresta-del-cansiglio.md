@@ -12,4 +12,4 @@ categories:
   - photographies (mine)
   - travel
 ---
-<img class="aligncenter size-full wp-image-3526" src="http://{{ site.url }}/wp-content/uploads/2011/08/vv04.jpg" alt="vv04" width="283" height="425" srcset="http://{{ site.url }}/wp-content/uploads/2011/08/vv04.jpg 283w, http://{{ site.url }}/wp-content/uploads/2011/08/vv04-200x300.jpg 200w" sizes="(max-width: 283px) 100vw, 283px" />
+<img class="aligncenter size-full wp-image-3526" src="{{ site.url }}/images/uploads/2011/08/vv04.jpg" alt="vv04" width="283" height="425" srcset="{{ site.url }}/images/uploads/2011/08/vv04.jpg 283w, {{ site.url }}/images/uploads/2011/08/vv04-200x300.jpg 200w" sizes="(max-width: 283px) 100vw, 283px" />

@@ -11,4 +11,4 @@ categories:
   - Hotel room
   - photographies (mine)
 ---
-[<img class="aligncenter size-full wp-image-1574" title="hotel" src="http://{{ site.url }}/wp-content/uploads/2011/03/hotel.jpg" alt="hotel" width="425" height="279" srcset="http://{{ site.url }}/wp-content/uploads/2011/03/hotel.jpg 425w, http://{{ site.url }}/wp-content/uploads/2011/03/hotel-300x197.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />](http://{{ site.url }}/wp-content/uploads/2011/03/hotel.jpg)
+[<img class="aligncenter size-full wp-image-1574" title="hotel" src="{{ site.url }}/images/uploads/2011/03/hotel.jpg" alt="hotel" width="425" height="279" srcset="{{ site.url }}/images/uploads/2011/03/hotel.jpg 425w, {{ site.url }}/images/uploads/2011/03/hotel-300x197.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />]({{ site.url }}/images/uploads/2011/03/hotel.jpg)

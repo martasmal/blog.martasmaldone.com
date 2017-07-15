@@ -13,5 +13,5 @@ categories:
 ---
 <p style="text-align: center;">
   <p style="text-align: center;">
-    <img class="aligncenter size-full wp-image-3513" src="http://{{ site.url }}/wp-content/uploads/2011/09/09-1.jpg" alt="09" width="567" height="378" srcset="http://{{ site.url }}/wp-content/uploads/2011/09/09-1.jpg 567w, http://{{ site.url }}/wp-content/uploads/2011/09/09-1-300x200.jpg 300w, http://{{ site.url }}/wp-content/uploads/2011/09/09-1-330x220.jpg 330w" sizes="(max-width: 567px) 100vw, 567px" />
+    <img class="aligncenter size-full wp-image-3513" src="{{ site.url }}/images/uploads/2011/09/09-1.jpg" alt="09" width="567" height="378" srcset="{{ site.url }}/images/uploads/2011/09/09-1.jpg 567w, {{ site.url }}/images/uploads/2011/09/09-1-300x200.jpg 300w, {{ site.url }}/images/uploads/2011/09/09-1-330x220.jpg 330w" sizes="(max-width: 567px) 100vw, 567px" />
   </p>
