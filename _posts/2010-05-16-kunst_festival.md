@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1563
 #permalink: /index.php/2010/05/16/kunst_festival/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

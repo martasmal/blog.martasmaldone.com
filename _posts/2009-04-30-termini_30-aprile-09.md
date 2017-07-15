@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=150
 #permalink: /index.php/2009/04/30/termini_30-aprile-09/
-categories:
+tags:
   - Appunti
   - Italia
   - photographies (mine)

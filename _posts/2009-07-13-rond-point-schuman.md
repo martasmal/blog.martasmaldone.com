@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3905
 #permalink: /index.php/2009/07/13/rond-point-schuman/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

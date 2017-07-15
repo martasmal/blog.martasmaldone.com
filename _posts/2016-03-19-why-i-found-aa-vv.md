@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3093
 #permalink: /index.php/2016/03/19/why-i-found-aa-vv/
-categories:
+tags:
   - Appunti
 ---
 #### <strong class="markup--strong markup--h4-strong">My first interest is the Image.</strong> {#56bc.graf--h4.graf-after--figure}

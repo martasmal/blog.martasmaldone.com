@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=625
 #permalink: /index.php/2009/06/22/lintelligenza-non-avra-mai-peso/
-categories:
+tags:
   - pasolini
 ---
 **<span style="font-size: small;">L&#8217;intelligenza non avrà mai peso, mai<br /> nel giudizio di questa pubblica opinione.<br /> Neppure sul sangue dei lager, tu otterrai</p> 

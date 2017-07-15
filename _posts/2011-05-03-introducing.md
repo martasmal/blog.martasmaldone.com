@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3960
 #permalink: /index.php/2011/05/03/introducing/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

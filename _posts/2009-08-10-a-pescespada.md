@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wp-martablog/?p=1064
 #permalink: /index.php/2009/08/10/a-pescespada/
-categories:
+tags:
   - Appunti
   - Italia
   - photographies (mine)

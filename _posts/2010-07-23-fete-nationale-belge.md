@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1501
 #permalink: /index.php/2010/07/23/fete-nationale-belge/
-categories:
+tags:
   - Appunti
   - Belgique
   - Bruxelles

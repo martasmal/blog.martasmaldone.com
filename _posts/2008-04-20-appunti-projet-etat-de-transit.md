@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3386
 #permalink: /index.php/2008/04/20/appunti-projet-etat-de-transit/
-categories:
+tags:
   - Appunti
   - photographies (mine)
   - travel

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=30
 #permalink: /index.php/2009/06/02/alla-mia-nazione/
-categories:
+tags:
   - Italia
   - pasolini
 ---

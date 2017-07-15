@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2678
 #permalink: /index.php/2011/05/23/parking-lot-view/
-categories:
+tags:
   - Appunti
   - NL
   - photographies (mine)

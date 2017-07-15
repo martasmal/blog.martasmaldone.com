@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2548
 #permalink: /index.php/2012/09/03/breakfast-in-meersburg/
-categories:
+tags:
   - Appunti
   - Hotel room
   - photographies (mine)

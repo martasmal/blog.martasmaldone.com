@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=248
 #permalink: /index.php/2009/06/05/les-ritals/
-categories:
+tags:
   - r_itals
 ---
 **rital** <span style="color: #002000;"><em>masculin</em></span>

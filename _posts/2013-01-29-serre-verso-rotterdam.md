@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2950
 #permalink: /index.php/2013/01/29/serre-verso-rotterdam/
-categories:
+tags:
   - Appunti
   - NL
   - photographies (mine)

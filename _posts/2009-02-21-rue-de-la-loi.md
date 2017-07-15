@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=846
 #permalink: /index.php/2009/02/21/rue-de-la-loi/
-categories:
+tags:
   - Appunti
   - photographies (mine)
   - Schuman_City

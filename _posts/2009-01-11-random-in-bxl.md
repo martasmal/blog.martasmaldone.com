@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2054
 #permalink: /index.php/2009/01/11/random-in-bxl/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=426
 #permalink: /index.php/2009/06/14/maastricht_13-june/
-categories:
+tags:
   - Appunti
   - NL
   - photographies (mine)

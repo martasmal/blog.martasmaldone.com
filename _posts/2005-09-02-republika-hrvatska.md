@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3396
 #permalink: /index.php/2005/09/02/republika-hrvatska/
-categories:
+tags:
   - Appunti
   - photographies (mine)
   - travel

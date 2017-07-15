@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1576
 #permalink: /index.php/2010/04/05/hotel-in-oy-mittelberg-allgau/
-categories:
+tags:
   - Appunti
   - Hotel room
   - photographies (mine)

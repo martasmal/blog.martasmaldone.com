@@ -6,6 +6,6 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=813
 #permalink: /index.php/2009/06/20/luna-park-di-corrotti/
-categories:
+tags:
   - luoghi
 ---

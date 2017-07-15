@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2524
 #permalink: /index.php/2012/07/18/venesia-veneziavenexia-venessia-e-venezsia/
-categories:
+tags:
   - Appunti
   - Italia
   - photographies (mine)

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2944
 #permalink: /index.php/2015/02/20/time-capsule-josaphat-occupart_-14-02-2015friche-josaphat/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

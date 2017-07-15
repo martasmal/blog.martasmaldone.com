@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3075
 #permalink: /index.php/2016/04/03/hotel-room-in-shibu-onsen/
-categories:
+tags:
   - Appunti
   - Hotel room
   - photographies (mine)

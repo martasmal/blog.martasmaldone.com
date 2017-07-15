@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="944aa135-fb62-40e0-8ecf-9610e0f7c68e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2005-08-10-villamare.md" afterPath="$PROJECT_DIR$/_posts/2005-08-10-villamare.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2005-09-02-republika-hrvatska.md" afterPath="$PROJECT_DIR$/_posts/2005-09-02-republika-hrvatska.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2006-04-11-3837.md" afterPath="$PROJECT_DIR$/_posts/2006-04-11-3837.md" />
@@ -129,6 +130,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2010-08-30-bxl.md" afterPath="$PROJECT_DIR$/_posts/2010-08-30-bxl.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2010-09-27-flowers.md" afterPath="$PROJECT_DIR$/_posts/2010-09-27-flowers.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011-02-23-in-rue-rogier.md" afterPath="$PROJECT_DIR$/_posts/2011-02-23-in-rue-rogier.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011-03-10-sample-post.md" afterPath="$PROJECT_DIR$/_posts/2011-03-10-sample-post.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011-05-03-1736.md" afterPath="$PROJECT_DIR$/_posts/2011-05-03-1736.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011-05-03-introducing.md" afterPath="$PROJECT_DIR$/_posts/2011-05-03-introducing.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2011-05-07-yet-another-2.md" afterPath="$PROJECT_DIR$/_posts/2011-05-07-yet-another-2.md" />
@@ -156,6 +158,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-04-01-magnolia.md" afterPath="$PROJECT_DIR$/_posts/2012-04-01-magnolia.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-04-05-kk.md" afterPath="$PROJECT_DIR$/_posts/2012-04-05-kk.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-05-14-vasso.md" afterPath="$PROJECT_DIR$/_posts/2012-05-14-vasso.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" afterPath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-06-11-2514.md" afterPath="$PROJECT_DIR$/_posts/2012-06-11-2514.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-07-18-venesia-veneziavenexia-venessia-e-venezsia.md" afterPath="$PROJECT_DIR$/_posts/2012-07-18-venesia-veneziavenexia-venessia-e-venezsia.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-07-28-wired.md" afterPath="$PROJECT_DIR$/_posts/2012-07-28-wired.md" />
@@ -176,7 +179,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-01-29-serre-verso-rotterdam.md" afterPath="$PROJECT_DIR$/_posts/2013-01-29-serre-verso-rotterdam.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-03-10-tempesta.md" afterPath="$PROJECT_DIR$/_posts/2013-03-10-tempesta.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-04-13-tex.md" afterPath="$PROJECT_DIR$/_posts/2013-04-13-tex.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" afterPath="$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-05-23-readability-feature-post.md" afterPath="$PROJECT_DIR$/_posts/2013-05-23-readability-feature-post.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-06-25-video-post.md" afterPath="$PROJECT_DIR$/_posts/2013-06-25-video-post.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-06-27-apercu-memory-lane-chez-smart.md" afterPath="$PROJECT_DIR$/_posts/2013-06-27-apercu-memory-lane-chez-smart.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-08-12-sample-link-post.md" afterPath="$PROJECT_DIR$/_posts/2013-08-12-sample-link-post.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" afterPath="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-10-26-background-image.md" afterPath="$PROJECT_DIR$/_posts/2013-10-26-background-image.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-12-01-a-room-with-a-view.md" afterPath="$PROJECT_DIR$/_posts/2013-12-01-a-room-with-a-view.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-12-02-bretagna.md" afterPath="$PROJECT_DIR$/_posts/2013-12-02-bretagna.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-03-30-sacrogra_bozar.md" afterPath="$PROJECT_DIR$/_posts/2014-03-30-sacrogra_bozar.md" />
@@ -191,6 +200,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-12-hotel-room-_kyoto.md" afterPath="$PROJECT_DIR$/_posts/2016-04-12-hotel-room-_kyoto.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-10-20-lana.md" afterPath="$PROJECT_DIR$/_posts/2016-10-20-lana.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-21-usa.md" afterPath="$PROJECT_DIR$/_posts/2017-02-21-usa.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog1.martasmaldone.com/_config.yml" afterPath="$PROJECT_DIR$/../blog1.martasmaldone.com/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -201,16 +211,26 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="2005-08-10-villamare.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2005-08-10-villamare.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../blog1.martasmaldone.com/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-810">
+              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -228,12 +248,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-10-20-lana.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-10-20-lana.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-10-20-lana.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="210">
                 <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2008-11-13-chauen_112008.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2008-11-13-chauen_112008.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="8" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2008-10-07-cansiglio_102008.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2008-10-07-cansiglio_102008.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -288,7 +334,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>blog.</find>
       <find>blog.ma</find>
       <find>blog.marta</find>
       <find>blog.martasmald</find>
@@ -309,7 +354,6 @@
       <find>http://{</find>
       <find>http://{si</find>
       <find>http://{s</find>
-      <find>http://{</find>
       <find>http://</find>
       <find>http://{{ site.url }}/uploads/</find>
       <find>layout: post</find>
@@ -318,6 +362,8 @@
       <find>admin6059</find>
       <find>guid:</find>
       <find>id:</find>
+      <find>tags:</find>
+      <find>categories:</find>
     </findStrings>
     <replaceStrings>
       <replace>#permalink</replace>
@@ -328,6 +374,8 @@
       <replace>marta smaldone</replace>
       <replace>#guid:</replace>
       <replace>#id:</replace>
+      <replace>oldtags:</replace>
+      <replace>tags:</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -335,24 +383,27 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../blog1.martasmaldone.com" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_posts/2005-09-02-republika-hrvatska.md" />
         <option value="$PROJECT_DIR$/_posts/2008-04-07-madrid.md" />
-        <option value="$PROJECT_DIR$/_posts/2005-08-10-villamare.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-21-usa.md" />
         <option value="$PROJECT_DIR$/_posts/2016-10-20-lana.md" />
+        <option value="$PROJECT_DIR$/_posts/2008-10-07-cansiglio_102008.md" />
+        <option value="$PROJECT_DIR$/_posts/2005-08-10-villamare.md" />
+        <option value="$PROJECT_DIR$/../blog1.martasmaldone.com/_config.yml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="805" />
+    <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -368,6 +419,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -376,42 +428,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blog.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
+              <option name="myItemId" value="blog1.martasmaldone.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -509,26 +532,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="805" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -540,6 +563,74 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2005-08-10-villamare.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-21-usa.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/3953273590_704e3899d5_m.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2005-09-02-republika-hrvatska.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="75" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="75" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2008-04-07-madrid.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="93" lean-forward="false" selection-start-line="13" selection-start-column="93" selection-end-line="13" selection-end-column="93" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-10-20-lana.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2008-04-07-madrid.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -575,17 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2005-08-10-villamare.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-21-usa.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -605,6 +685,47 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2008-11-13-chauen_112008.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2008-10-07-cansiglio_102008.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2005-08-10-villamare.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blog1.martasmaldone.com/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=706
 #permalink: /index.php/2009/07/02/litalia-si-vende-per-un-sacco-di-carbone/
-categories:
+tags:
   - r_itals
 ---
 2500 tonnellate di carbone ogni 1000 uomini.

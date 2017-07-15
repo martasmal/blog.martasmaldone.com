@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wp-martablog/?p=1134
 #permalink: /index.php/2009/08/07/1912-congresso-degli-stati-uniti-rapporto-sugli-immigrati-italiani/
-categories:
+tags:
   - r_itals
 ---
 <p style="text-align: justify;">

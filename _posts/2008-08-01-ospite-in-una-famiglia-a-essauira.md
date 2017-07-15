@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1430
 #permalink: /index.php/2008/08/01/ospite-in-una-famiglia-a-essauira/
-categories:
+tags:
   - Appunti
   - photographies (mine)
   - travel

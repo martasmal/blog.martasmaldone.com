@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wp-martablog/?p=918
 #permalink: /index.php/2009/07/16/open-screen_cinema-nova/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

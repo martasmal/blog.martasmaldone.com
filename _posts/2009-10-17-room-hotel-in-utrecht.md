@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1402
 #permalink: /index.php/2009/10/17/room-hotel-in-utrecht/
-categories:
+tags:
   - Appunti
   - Hotel room
   - NL

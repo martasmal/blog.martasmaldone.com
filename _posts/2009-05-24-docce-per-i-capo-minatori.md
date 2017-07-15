@@ -18,7 +18,7 @@ image_colors_bg:
   - 'a:11:{i:0;s:6:"7195B5";s:2:"+1";s:6:"86a5c0";s:2:"+2";s:6:"95b0c8";s:2:"+3";s:6:"b9cbdb";s:2:"+4";s:6:"dbe4ec";s:2:"+5";s:6:"f1f5f8";i:-1;s:6:"607f9a";i:-2;s:6:"557088";i:-3;s:6:"394b5b";i:-4;s:6:"1c252d";i:-5;s:6:"0b0f12";}'
 image_colors_fg:
   - 'a:11:{i:0;s:6:"000000";s:2:"+1";s:6:"000000";s:2:"+2";s:6:"1c252d";s:2:"+3";s:6:"394b5b";s:2:"+4";s:6:"394b5b";s:2:"+5";s:6:"557088";i:-1;s:6:"ffffff";i:-2;s:6:"ffffff";i:-3;s:6:"b9cbdb";i:-4;s:6:"95b0c8";i:-5;s:6:"95b0c8";}'
-categories:
+tags:
   - Appunti
   - Belgique
   - photographies (mine)

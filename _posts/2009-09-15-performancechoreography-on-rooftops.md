@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wp-martablog/?p=943
 #permalink: /index.php/2009/09/15/performancechoreography-on-rooftops/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

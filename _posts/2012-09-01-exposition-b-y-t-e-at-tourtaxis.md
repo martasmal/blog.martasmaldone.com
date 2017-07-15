@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3815
 #permalink: /index.php/2012/09/01/exposition-b-y-t-e-at-tourtaxis/
-categories:
+tags:
   - expo
 ---
 # Exposition B.Y.T.E. at Tour&Taxis

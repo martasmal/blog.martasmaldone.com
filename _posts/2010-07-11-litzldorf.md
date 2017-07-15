@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1459
 #permalink: /index.php/2010/07/11/litzldorf/
-categories:
+tags:
   - Appunti
   - photographies (mine)
   - POlaroid

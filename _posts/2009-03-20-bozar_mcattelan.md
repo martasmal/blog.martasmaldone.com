@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=829
 #permalink: /index.php/2009/03/20/bozar_mcattelan/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - expo

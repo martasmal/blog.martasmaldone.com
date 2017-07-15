@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3016
 #permalink: /index.php/2015/08/13/olea-europaea_study-i-crete/
-categories:
+tags:
   - Appunti
   - photographies (mine)
   - travel

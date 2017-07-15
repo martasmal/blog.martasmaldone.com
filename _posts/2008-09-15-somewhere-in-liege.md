@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2415
 #permalink: /index.php/2008/09/15/somewhere-in-liege/
-categories:
+tags:
   - Appunti
   - Belgique
   - photographies (mine)

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2850
 #permalink: /index.php/2012/09/29/election-in-antwerp/
-categories:
+tags:
   - Appunti
   - photographies (not mine)
 ---

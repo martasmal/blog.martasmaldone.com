@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=701
 #permalink: /index.php/2009/07/02/anne-morelli/
-categories:
+tags:
   - r_itals
 ---
 <span class="er"><strong>ANNE MORELLI, </strong><br /> <strong>5 – Gli italiani del Belgio,</strong><br /> <em>Storia e storie di due secoli di migrazioni, </em><br /> Foligno, Editoriale Umbra, 2004, pp. 130</span>

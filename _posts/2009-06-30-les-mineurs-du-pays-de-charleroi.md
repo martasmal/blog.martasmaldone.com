@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=689
 #permalink: /index.php/2009/06/30/les-mineurs-du-pays-de-charleroi/
-categories:
+tags:
   - r_itals
 ---
 ### LES MINEURS DU PAYS DE CHARLEROI {.mqs_titre}

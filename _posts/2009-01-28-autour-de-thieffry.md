@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1656
 #permalink: /index.php/2009/01/28/autour-de-thieffry/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

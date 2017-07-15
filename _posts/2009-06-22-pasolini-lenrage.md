@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=631
 #permalink: /index.php/2009/06/22/pasolini-lenrage/
-categories:
+tags:
   - pasolini
 ---
 #### **Da Pasolini l’enragè (1966) (serie Cinéastes de notre temps) di Jean-André Fieschi**

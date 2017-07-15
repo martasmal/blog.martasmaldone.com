@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3813
 #permalink: /index.php/2013/06/27/apercu-memory-lane-chez-smart/
-categories:
+tags:
   - expo
 ---
 <div id="exposition_BYTE_TourTaxis.head.137098222230" class="text resizable object">

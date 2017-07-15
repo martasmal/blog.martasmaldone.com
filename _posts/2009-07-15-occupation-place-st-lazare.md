@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2405
 #permalink: /index.php/2009/07/15/occupation-place-st-lazare/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=213
 #permalink: /index.php/2009/06/05/linnocenza-e-una-colpa/
-categories:
+tags:
   - pasolini
 ---
 La sequenza del fiore di carta

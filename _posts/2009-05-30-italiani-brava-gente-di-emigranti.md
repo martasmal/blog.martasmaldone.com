@@ -6,10 +6,10 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=14
 #permalink: /index.php/2009/05/30/italiani-brava-gente-di-emigranti/
-categories:
+tags:
   - Belgique
   - r_itals
-tags:
+oldtags:
   - belgique
   - immigrati
   - italiani

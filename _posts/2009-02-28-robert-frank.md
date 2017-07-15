@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wp-martablog/?p=1038
 #permalink: /index.php/2009/02/28/robert-frank/
-categories:
+tags:
   - photographies (not mine)
 ---
 <p style="text-align: center;">

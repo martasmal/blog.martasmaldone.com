@@ -6,6 +6,6 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=694
 #permalink: /index.php/2009/06/30/l-etranger-cest-moi/
-categories:
+tags:
   - r_itals
 ---

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=496
 #permalink: /index.php/2009/03/14/chez-noemie/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

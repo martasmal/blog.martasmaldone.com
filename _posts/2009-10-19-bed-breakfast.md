@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1407
 #permalink: /index.php/2009/10/19/bed-breakfast/
-categories:
+tags:
   - Appunti
   - Hotel room
   - NL

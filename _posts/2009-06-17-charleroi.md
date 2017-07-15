@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=574
 #permalink: /index.php/2009/06/17/charleroi/
-categories:
+tags:
   - Belgique
   - r_itals
 ---

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=686
 #permalink: /index.php/2009/06/30/o-belgio-mio/
-categories:
+tags:
   - r_itals
 ---
 ### O BELGIO MIO {.mqs_titre}

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1693
 #permalink: /index.php/2011/08/17/foresta-del-cansiglio/
-categories:
+tags:
   - Appunti
   - Italia
   - photographies (mine)

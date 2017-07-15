@@ -6,9 +6,9 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=735
 #permalink: /index.php/2009/07/17/disobbedienza-civile/
-categories:
-  - r_itals
 tags:
+  - r_itals
+oldtags:
   - disobbedienza civile
   - immigrati
   - legge criminale

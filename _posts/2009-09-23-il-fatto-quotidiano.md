@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wp-martablog/?p=1115
 #permalink: /index.php/2009/09/23/il-fatto-quotidiano/
-categories:
+tags:
   - Italia
 ---
 <p style="text-align: center;">

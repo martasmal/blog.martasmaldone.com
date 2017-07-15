@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1446
 #permalink: /index.php/2008/04/18/souk-habous_casablanca/
-categories:
+tags:
   - Appunti
   - photographies (mine)
   - travel

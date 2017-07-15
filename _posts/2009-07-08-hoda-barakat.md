@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=732
 #permalink: /index.php/2009/07/08/hoda-barakat/
-categories:
+tags:
   - Appunti
 ---
 <div>

@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3444
 #permalink: /index.php/2006/05/01/kunsthaus-tacheles-berlin/
-categories:
+tags:
   - Appunti
   - photographies (mine)
   - travel

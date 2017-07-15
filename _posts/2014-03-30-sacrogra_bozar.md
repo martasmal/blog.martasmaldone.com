@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2877
 #permalink: /index.php/2014/03/30/sacrogra_bozar/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

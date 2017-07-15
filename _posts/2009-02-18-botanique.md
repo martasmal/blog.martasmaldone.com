@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1818
 #permalink: /index.php/2009/02/18/botanique/
-categories:
+tags:
   - Appunti
   - Belgique
   - Bruxelles

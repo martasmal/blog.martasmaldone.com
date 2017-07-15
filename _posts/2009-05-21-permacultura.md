@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=217
 #permalink: /index.php/2009/05/21/permacultura/
-categories:
+tags:
   - Appunti
   - Belgique
   - Bruxelles

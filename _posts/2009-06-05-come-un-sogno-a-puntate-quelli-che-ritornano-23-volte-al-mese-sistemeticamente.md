@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=209
 #permalink: /index.php/2009/06/05/come-un-sogno-a-puntate-quelli-che-ritornano-23-volte-al-mese-sistemeticamente/
-categories:
+tags:
   - Bruxelles
   - Italia
   - maps

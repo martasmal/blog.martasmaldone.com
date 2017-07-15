@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=720
 #permalink: /index.php/2009/07/02/la-clandestinita-in-italia-e-reato/
-categories:
+tags:
   - Appunti
   - Italia
   - r_itals

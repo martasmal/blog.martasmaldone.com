@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/2011/08/yet-another/
 #permalink: /index.php/2011/08/06/yet-another/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

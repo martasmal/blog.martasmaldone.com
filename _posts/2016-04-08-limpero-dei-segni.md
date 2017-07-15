@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3413
 #permalink: /index.php/2016/04/08/limpero-dei-segni/
-categories:
+tags:
   - Appunti
   - photographies (mine)
   - travel

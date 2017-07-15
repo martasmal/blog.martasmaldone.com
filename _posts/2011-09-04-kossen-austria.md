@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1724
 #permalink: /index.php/2011/09/04/kossen-austria/
-categories:
+tags:
   - Appunti
   - Hotel room
   - photographies (mine)

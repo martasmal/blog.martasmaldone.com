@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=1610
 #permalink: /index.php/2010/03/14/les-chinelles/
-categories:
+tags:
   - Appunti
   - Belgique
   - photographies (mine)

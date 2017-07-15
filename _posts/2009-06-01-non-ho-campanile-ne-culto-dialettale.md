@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=34
 #permalink: /index.php/2009/06/01/non-ho-campanile-ne-culto-dialettale/
-categories:
+tags:
   - travel
 ---
 <span style="font-size: small;"><span style="font-family: verdana,geneva;"><em></em></span></span>

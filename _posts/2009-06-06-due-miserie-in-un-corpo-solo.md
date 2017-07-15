@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=308
 #permalink: /index.php/2009/06/06/due-miserie-in-un-corpo-solo/
-categories:
+tags:
   - Italia
 ---
 &#8220;&#8230;E ora? Anche ora ci si sente come in due, da una parte l’uomo inserito che attraversa ossequiosamente lo squallore della propria sopravvivenza quotidiana e dall’altra il gabbiano, senza più neanche l’intenzione del volo, perché ormai il sogno si era rattrappito.

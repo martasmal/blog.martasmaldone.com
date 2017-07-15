@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=714
 #permalink: /index.php/2009/07/02/gino-girardelli_compagno-minatore/
-categories:
+tags:
   - r_itals
 ---
 Terra di origine: Rimini

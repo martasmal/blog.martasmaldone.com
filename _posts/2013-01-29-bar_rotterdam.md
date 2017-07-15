@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2957
 #permalink: /index.php/2013/01/29/bar_rotterdam/
-categories:
+tags:
   - Appunti
   - NL
   - photographies (mine)

@@ -6,6 +6,6 @@ author: marta smaldone
 layout: post
 #gu#id: http://localhost/wordpress/?p=211
 #permalink: /index.php/2009/06/05/einstellung/
-categories:
+tags:
   - luoghi
 ---

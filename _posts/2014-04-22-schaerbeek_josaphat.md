@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2853
 #permalink: /index.php/2014/04/22/schaerbeek_josaphat/
-categories:
+tags:
   - Appunti
   - Belgique
   - Bruxelles

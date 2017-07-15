@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2835
 #permalink: /index.php/2013/12/01/a-room-with-a-view/
-categories:
+tags:
   - Appunti
   - Hotel room
   - photographies (mine)

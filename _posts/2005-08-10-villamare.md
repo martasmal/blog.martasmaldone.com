@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3544
 ##permalink: /index.php/2005/08/10/villamare/
-categories:
+tags:
   - Appunti
   - Italia
   - photographies (mine)

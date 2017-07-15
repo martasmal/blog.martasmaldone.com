@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3810
 #permalink: /index.php/2007/06/04/il-cinema-ferrari/
-categories:
+tags:
   - Appunti
   - Italia
   - photographies (mine)

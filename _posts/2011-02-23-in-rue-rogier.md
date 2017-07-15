@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=2673
 #permalink: /index.php/2011/02/23/in-rue-rogier/
-categories:
+tags:
   - Appunti
   - Bruxelles
   - photographies (mine)

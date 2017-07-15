@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3820
 #permalink: /index.php/2010/07/03/da-bambina-correvo-su-questa-battigia/
-categories:
+tags:
   - Appunti
   - Italia
   - photographies (mine)

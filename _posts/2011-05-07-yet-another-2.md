@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/2011/08/yet-another-2/
 #permalink: /index.php/2011/05/07/yet-another-2/
-categories:
+tags:
   - Appunti
   - NL
   - photographies (mine)

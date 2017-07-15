@@ -6,7 +6,7 @@ author: marta smaldone
 layout: post
 #gu#id: http://{{ site.url }}/?p=3735
 #permalink: /index.php/2010/02/02/near-antwerpen/
-categories:
+tags:
   - Appunti
   - Belgique
   - photographies (mine)
