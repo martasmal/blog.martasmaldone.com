@@ -5,7 +5,7 @@ date: 2009-05-24T15:39:09+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=412
-permalink: /index.php/2009/05/24/docce-per-i-capo-minatori/
+#permalink: /index.php/2009/05/24/docce-per-i-capo-minatori/
 image_url:
   - http://localhost/wp-uploads/2009/06/_mg_2209.jpg
 image_md5:
@@ -24,4 +24,4 @@ categories:
   - photographies (mine)
   - r_itals
 ---
-[<img class="aligncenter wp-image-411 size-full" title="_mg_2209" src="http://blog.martasmaldone.eu/wp-content/uploads/2009/06/mg_2209.jpg" alt="_mg_2209" width="283" height="425" srcset="http://blog.martasmaldone.eu/wp-content/uploads/2009/06/mg_2209.jpg 283w, http://blog.martasmaldone.eu/wp-content/uploads/2009/06/mg_2209-200x300.jpg 200w" sizes="(max-width: 283px) 100vw, 283px" />](http://blog.martasmaldone.eu/wp-content/uploads/2009/06/mg_2209.jpg)
+[<img class="aligncenter wp-image-411 size-full" title="_mg_2209" src="http://{{ site.url }}/wp-content/uploads/2009/06/mg_2209.jpg" alt="_mg_2209" width="283" height="425" srcset="http://{{ site.url }}/wp-content/uploads/2009/06/mg_2209.jpg 283w, http://{{ site.url }}/wp-content/uploads/2009/06/mg_2209-200x300.jpg 200w" sizes="(max-width: 283px) 100vw, 283px" />](http://{{ site.url }}/wp-content/uploads/2009/06/mg_2209.jpg)

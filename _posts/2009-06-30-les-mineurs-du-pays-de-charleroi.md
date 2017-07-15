@@ -5,7 +5,7 @@ date: 2009-06-30T10:07:18+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=689
-permalink: /index.php/2009/06/30/les-mineurs-du-pays-de-charleroi/
+#permalink: /index.php/2009/06/30/les-mineurs-du-pays-de-charleroi/
 categories:
   - r_itals
 ---

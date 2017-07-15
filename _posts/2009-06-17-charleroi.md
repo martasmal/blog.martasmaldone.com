@@ -5,7 +5,7 @@ date: 2009-06-17T13:16:11+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=574
-permalink: /index.php/2009/06/17/charleroi/
+#permalink: /index.php/2009/06/17/charleroi/
 categories:
   - Belgique
   - r_itals

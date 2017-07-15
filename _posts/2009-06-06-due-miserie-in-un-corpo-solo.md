@@ -5,7 +5,7 @@ date: 2009-06-06T17:35:08+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=308
-permalink: /index.php/2009/06/06/due-miserie-in-un-corpo-solo/
+#permalink: /index.php/2009/06/06/due-miserie-in-un-corpo-solo/
 categories:
   - Italia
 ---

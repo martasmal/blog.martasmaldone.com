@@ -5,7 +5,7 @@ date: 2009-06-22T17:07:54+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=625
-permalink: /index.php/2009/06/22/lintelligenza-non-avra-mai-peso/
+#permalink: /index.php/2009/06/22/lintelligenza-non-avra-mai-peso/
 categories:
   - pasolini
 ---

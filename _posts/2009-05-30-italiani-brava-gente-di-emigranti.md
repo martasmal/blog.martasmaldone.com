@@ -5,7 +5,7 @@ date: 2009-05-30T01:33:19+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=14
-permalink: /index.php/2009/05/30/italiani-brava-gente-di-emigranti/
+#permalink: /index.php/2009/05/30/italiani-brava-gente-di-emigranti/
 categories:
   - Belgique
   - r_itals

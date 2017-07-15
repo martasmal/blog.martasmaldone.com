@@ -5,7 +5,7 @@ date: 2009-06-05T13:22:43+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=248
-permalink: /index.php/2009/06/05/les-ritals/
+#permalink: /index.php/2009/06/05/les-ritals/
 categories:
   - r_itals
 ---

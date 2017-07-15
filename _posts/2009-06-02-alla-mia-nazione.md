@@ -5,7 +5,7 @@ date: 2009-06-02T10:45:50+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=30
-permalink: /index.php/2009/06/02/alla-mia-nazione/
+#permalink: /index.php/2009/06/02/alla-mia-nazione/
 categories:
   - Italia
   - pasolini

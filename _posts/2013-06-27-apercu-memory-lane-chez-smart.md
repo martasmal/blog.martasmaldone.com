@@ -4,8 +4,8 @@ title: Aperçu Memory Lane chez Smart
 date: 2013-06-27T18:09:42+00:00
 author: admin6059
 layout: pages
-guid: http://blog.martasmaldone.eu/?p=3813
-permalink: /index.php/2013/06/27/apercu-memory-lane-chez-smart/
+guid: http://{{ site.url }}/?p=3813
+#permalink: /index.php/2013/06/27/apercu-memory-lane-chez-smart/
 categories:
   - expo
 ---

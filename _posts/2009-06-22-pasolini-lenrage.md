@@ -5,7 +5,7 @@ date: 2009-06-22T17:35:27+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=631
-permalink: /index.php/2009/06/22/pasolini-lenrage/
+#permalink: /index.php/2009/06/22/pasolini-lenrage/
 categories:
   - pasolini
 ---

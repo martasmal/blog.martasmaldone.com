@@ -5,7 +5,7 @@ date: 2009-07-02T11:31:26+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=701
-permalink: /index.php/2009/07/02/anne-morelli/
+#permalink: /index.php/2009/07/02/anne-morelli/
 categories:
   - r_itals
 ---

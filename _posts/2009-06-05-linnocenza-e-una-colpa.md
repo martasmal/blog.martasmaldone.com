@@ -5,7 +5,7 @@ date: 2009-06-05T11:17:46+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=213
-permalink: /index.php/2009/06/05/linnocenza-e-una-colpa/
+#permalink: /index.php/2009/06/05/linnocenza-e-una-colpa/
 categories:
   - pasolini
 ---

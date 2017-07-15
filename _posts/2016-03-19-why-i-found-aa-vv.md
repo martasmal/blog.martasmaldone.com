@@ -4,8 +4,8 @@ title: Why I found Aa.Vv.
 date: 2016-03-19T17:25:26+00:00
 author: admin6059
 layout: pages
-guid: http://blog.martasmaldone.eu/?p=3093
-permalink: /index.php/2016/03/19/why-i-found-aa-vv/
+guid: http://{{ site.url }}/?p=3093
+#permalink: /index.php/2016/03/19/why-i-found-aa-vv/
 categories:
   - Appunti
 ---

@@ -5,7 +5,7 @@ date: 2009-06-01T11:01:20+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=34
-permalink: /index.php/2009/06/01/non-ho-campanile-ne-culto-dialettale/
+#permalink: /index.php/2009/06/01/non-ho-campanile-ne-culto-dialettale/
 categories:
   - travel
 ---

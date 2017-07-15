@@ -5,7 +5,7 @@ date: 2009-07-02T12:06:56+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=714
-permalink: /index.php/2009/07/02/gino-girardelli_compagno-minatore/
+#permalink: /index.php/2009/07/02/gino-girardelli_compagno-minatore/
 categories:
   - r_itals
 ---

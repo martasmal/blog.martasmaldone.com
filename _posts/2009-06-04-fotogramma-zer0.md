@@ -5,7 +5,7 @@ date: 2009-06-04T01:45:15+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=129
-permalink: /index.php/2009/06/04/fotogramma-zer0/
+#permalink: /index.php/2009/06/04/fotogramma-zer0/
 image_url:
   - http://localhost/wp-uploads/2009/06/blegny001.jpg
 image_md5:
@@ -25,5 +25,5 @@ categories:
   - r_itals
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-3663" src="http://blog.martasmaldone.eu/wp-content/uploads/2009/06/blegny001-1.jpg" alt="blegny001" width="425" height="271" srcset="http://blog.martasmaldone.eu/wp-content/uploads/2009/06/blegny001-1.jpg 425w, http://blog.martasmaldone.eu/wp-content/uploads/2009/06/blegny001-1-300x191.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />
+  <img class="aligncenter size-full wp-image-3663" src="http://{{ site.url }}/wp-content/uploads/2009/06/blegny001-1.jpg" alt="blegny001" width="425" height="271" srcset="http://{{ site.url }}/wp-content/uploads/2009/06/blegny001-1.jpg 425w, http://{{ site.url }}/wp-content/uploads/2009/06/blegny001-1-300x191.jpg 300w" sizes="(max-width: 425px) 100vw, 425px" />
 </p>

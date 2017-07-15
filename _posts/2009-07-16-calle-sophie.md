@@ -5,7 +5,7 @@ date: 2009-07-16T23:02:29+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=861
-permalink: /index.php/2009/07/16/calle-sophie/
+#permalink: /index.php/2009/07/16/calle-sophie/
 image_url:
   - http://localhost/wp-uploads/2009/07/calle.jpeg
 image_md5:
@@ -23,5 +23,5 @@ categories:
   - expo
 ---
 <p style="text-align: center;">
-  <a href="http://blog.martasmaldone.eu/wp-content/uploads/2009/07/calle.jpeg"><img class="aligncenter wp-image-882 size-full" title="calle" src="http://blog.martasmaldone.eu/wp-content/uploads/2009/07/calle.jpeg" alt="calle" width="301" height="425" srcset="http://blog.martasmaldone.eu/wp-content/uploads/2009/07/calle.jpeg 301w, http://blog.martasmaldone.eu/wp-content/uploads/2009/07/calle-212x300.jpeg 212w" sizes="(max-width: 301px) 100vw, 301px" /></a>
+  <a href="http://{{ site.url }}/wp-content/uploads/2009/07/calle.jpeg"><img class="aligncenter wp-image-882 size-full" title="calle" src="http://{{ site.url }}/wp-content/uploads/2009/07/calle.jpeg" alt="calle" width="301" height="425" srcset="http://{{ site.url }}/wp-content/uploads/2009/07/calle.jpeg 301w, http://{{ site.url }}/wp-content/uploads/2009/07/calle-212x300.jpeg 212w" sizes="(max-width: 301px) 100vw, 301px" /></a>
 </p>

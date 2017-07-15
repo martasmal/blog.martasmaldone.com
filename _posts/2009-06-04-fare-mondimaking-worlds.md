@@ -5,7 +5,7 @@ date: 2009-06-04T12:56:42+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wordpress/?p=180
-permalink: /index.php/2009/06/04/fare-mondimaking-worlds/
+#permalink: /index.php/2009/06/04/fare-mondimaking-worlds/
 categories:
   - expo
 ---

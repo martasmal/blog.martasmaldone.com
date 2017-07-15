@@ -5,7 +5,7 @@ date: 2009-08-07T17:26:45+00:00
 author: admin6059
 layout: pages
 guid: http://localhost/wp-martablog/?p=1134
-permalink: /index.php/2009/08/07/1912-congresso-degli-stati-uniti-rapporto-sugli-immigrati-italiani/
+#permalink: /index.php/2009/08/07/1912-congresso-degli-stati-uniti-rapporto-sugli-immigrati-italiani/
 categories:
   - r_itals
 ---
