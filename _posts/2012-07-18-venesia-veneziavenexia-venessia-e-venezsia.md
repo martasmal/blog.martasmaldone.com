@@ -1,10 +1,10 @@
 ---
-id: 2524
+#id: 2524
 title: Venesia, Venezia,Venexia, Venessia e Venezsia.
 date: 2012-07-18T22:54:01+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=2524
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=2524
 #permalink: /index.php/2012/07/18/venesia-veneziavenexia-venessia-e-venezsia/
 categories:
   - Appunti

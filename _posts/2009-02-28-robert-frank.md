@@ -1,10 +1,10 @@
 ---
-id: 1038
+#id: 1038
 title: Robert Frank
 date: 2009-02-28T09:41:34+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wp-martablog/?p=1038
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wp-martablog/?p=1038
 #permalink: /index.php/2009/02/28/robert-frank/
 categories:
   - photographies (not mine)

@@ -1,10 +1,10 @@
 ---
-id: 129
+#id: 129
 title: fotogramma Zer0
 date: 2009-06-04T01:45:15+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=129
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=129
 #permalink: /index.php/2009/06/04/fotogramma-zer0/
 image_url:
   - http://localhost/wp-uploads/2009/06/blegny001.jpg

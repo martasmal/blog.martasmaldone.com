@@ -1,10 +1,10 @@
 ---
-id: 3905
+#id: 3905
 title: Rond-point Schuman
 date: 2009-07-13T08:24:26+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=3905
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=3905
 #permalink: /index.php/2009/07/13/rond-point-schuman/
 categories:
   - Appunti

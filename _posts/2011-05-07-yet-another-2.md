@@ -1,10 +1,10 @@
 ---
-id: 1651
+#id: 1651
 title: in Vlissingen
 date: 2011-05-07T20:56:23+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/2011/08/yet-another-2/
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/2011/08/yet-another-2/
 #permalink: /index.php/2011/05/07/yet-another-2/
 categories:
   - Appunti

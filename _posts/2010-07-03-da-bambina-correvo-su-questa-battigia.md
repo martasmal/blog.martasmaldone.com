@@ -1,10 +1,10 @@
 ---
-id: 3820
+#id: 3820
 title: da bambina correvo su questa battigia
 date: 2010-07-03T10:51:50+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=3820
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=3820
 #permalink: /index.php/2010/07/03/da-bambina-correvo-su-questa-battigia/
 categories:
   - Appunti

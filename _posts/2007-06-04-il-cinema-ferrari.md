@@ -1,10 +1,10 @@
 ---
-id: 3810
+#id: 3810
 title: Il cinema Ferrari
 date: 2007-06-04T14:05:01+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=3810
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=3810
 #permalink: /index.php/2007/06/04/il-cinema-ferrari/
 categories:
   - Appunti

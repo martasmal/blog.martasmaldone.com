@@ -1,10 +1,10 @@
 ---
-id: 2405
+#id: 2405
 title: occupation place St Lazare
 date: 2009-07-15T08:28:31+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=2405
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=2405
 #permalink: /index.php/2009/07/15/occupation-place-st-lazare/
 categories:
   - Appunti

@@ -1,10 +1,10 @@
 ---
-id: 574
+#id: 574
 title: charleroi
 date: 2009-06-17T13:16:11+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=574
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=574
 #permalink: /index.php/2009/06/17/charleroi/
 categories:
   - Belgique

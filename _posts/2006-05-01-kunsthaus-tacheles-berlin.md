@@ -1,10 +1,10 @@
 ---
-id: 3444
+#id: 3444
 title: Kunsthaus Tacheles, Berlin
 date: 2006-05-01T18:17:41+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=3444
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=3444
 #permalink: /index.php/2006/05/01/kunsthaus-tacheles-berlin/
 categories:
   - Appunti

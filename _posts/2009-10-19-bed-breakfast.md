@@ -1,10 +1,10 @@
 ---
-id: 1407
+#id: 1407
 title: The rose room, come back to Utrecht
 date: 2009-10-19T10:46:41+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=1407
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=1407
 #permalink: /index.php/2009/10/19/bed-breakfast/
 categories:
   - Appunti

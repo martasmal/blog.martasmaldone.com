@@ -1,10 +1,10 @@
 ---
-id: 2944
+#id: 2944
 title: 'TIME CAPSULE JOSAPHAT// OCCUP&#8217;ART_ 14.02.2015//FRICHE JOSAPHAT'
 date: 2015-02-20T14:34:46+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=2944
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=2944
 #permalink: /index.php/2015/02/20/time-capsule-josaphat-occupart_-14-02-2015friche-josaphat/
 categories:
   - Appunti

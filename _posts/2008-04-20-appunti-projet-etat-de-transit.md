@@ -1,10 +1,10 @@
 ---
-id: 3386
+#id: 3386
 title: 'cahier  &#8216;Etat de transit&#8217;'
 date: 2008-04-20T11:01:53+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=3386
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=3386
 #permalink: /index.php/2008/04/20/appunti-projet-etat-de-transit/
 categories:
   - Appunti

@@ -1,10 +1,10 @@
 ---
-id: 2054
+#id: 2054
 title: random in Bxl
 date: 2009-01-11T22:21:18+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=2054
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=2054
 #permalink: /index.php/2009/01/11/random-in-bxl/
 categories:
   - Appunti

@@ -1,10 +1,10 @@
 ---
-id: 1446
+#id: 1446
 title: Souk Habous_Casablanca
 date: 2008-04-18T15:44:40+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=1446
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=1446
 #permalink: /index.php/2008/04/18/souk-habous_casablanca/
 categories:
   - Appunti

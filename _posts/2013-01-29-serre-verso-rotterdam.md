@@ -1,10 +1,10 @@
 ---
-id: 2950
+#id: 2950
 title: Nederland
 date: 2013-01-29T14:25:46+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=2950
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=2950
 #permalink: /index.php/2013/01/29/serre-verso-rotterdam/
 categories:
   - Appunti

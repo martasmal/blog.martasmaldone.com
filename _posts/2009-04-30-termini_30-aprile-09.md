@@ -1,10 +1,10 @@
 ---
-id: 150
+#id: 150
 title: Termini
 date: 2009-04-30T11:10:35+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=150
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=150
 #permalink: /index.php/2009/04/30/termini_30-aprile-09/
 categories:
   - Appunti

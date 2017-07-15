@@ -1,10 +1,10 @@
 ---
-id: 3379
+#id: 3379
 title: 'memory lane <Sapri >'
 date: 2007-05-20T10:45:13+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=3379
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=3379
 #permalink: /index.php/2007/05/20/memory-lane/
 categories:
   - Appunti

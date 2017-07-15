@@ -1,10 +1,10 @@
 ---
-id: 1430
+#id: 1430
 title: I was a guest in a family in Essaouira
 date: 2008-08-01T15:07:16+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=1430
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=1430
 #permalink: /index.php/2008/08/01/ospite-in-una-famiglia-a-essauira/
 categories:
   - Appunti

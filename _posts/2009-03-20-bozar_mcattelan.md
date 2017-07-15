@@ -1,10 +1,10 @@
 ---
-id: 829
+#id: 829
 title: BoZar_M.Cattelan
 date: 2009-03-20T19:40:29+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=829
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=829
 #permalink: /index.php/2009/03/20/bozar_mcattelan/
 categories:
   - Appunti

@@ -1,10 +1,10 @@
 ---
-id: 3413
+#id: 3413
 title: L’Empire des signes
 date: 2016-04-08T12:24:10+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=3413
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=3413
 #permalink: /index.php/2016/04/08/limpero-dei-segni/
 categories:
   - Appunti

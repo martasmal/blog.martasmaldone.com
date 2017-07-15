@@ -1,10 +1,10 @@
 ---
-id: 631
+#id: 631
 title: 'pasolini l&#8217;enragè'
 date: 2009-06-22T17:35:27+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=631
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=631
 #permalink: /index.php/2009/06/22/pasolini-lenrage/
 categories:
   - pasolini

@@ -1,10 +1,10 @@
 ---
-id: 217
+#id: 217
 title: 'permaculture_canal d&#8217;Anderlecht'
 date: 2009-05-21T11:35:23+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=217
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=217
 #permalink: /index.php/2009/05/21/permacultura/
 categories:
   - Appunti

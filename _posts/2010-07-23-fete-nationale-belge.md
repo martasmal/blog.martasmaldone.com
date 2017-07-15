@@ -1,10 +1,10 @@
 ---
-id: 1501
+#id: 1501
 title: 21 juillet_Fête Nationale Belge
 date: 2010-07-23T14:25:37+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=1501
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=1501
 #permalink: /index.php/2010/07/23/fete-nationale-belge/
 categories:
   - Appunti

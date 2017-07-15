@@ -1,10 +1,10 @@
 ---
-id: 2853
+#id: 2853
 title: notturno di primavera_Josaphat
 date: 2014-04-22T12:11:28+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=2853
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=2853
 #permalink: /index.php/2014/04/22/schaerbeek_josaphat/
 categories:
   - Appunti

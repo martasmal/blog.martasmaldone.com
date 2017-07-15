@@ -1,10 +1,10 @@
 ---
-id: 1818
+#id: 1818
 title: Botanique
 date: 2009-02-18T22:29:55+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=1818
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=1818
 #permalink: /index.php/2009/02/18/botanique/
 categories:
   - Appunti

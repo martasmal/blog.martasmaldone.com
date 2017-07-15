@@ -1,10 +1,10 @@
 ---
-id: 412
+#id: 412
 title: Marcinelle_spogliatoi capi squadra
 date: 2009-05-24T15:39:09+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=412
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=412
 #permalink: /index.php/2009/05/24/docce-per-i-capo-minatori/
 image_url:
   - http://localhost/wp-uploads/2009/06/_mg_2209.jpg

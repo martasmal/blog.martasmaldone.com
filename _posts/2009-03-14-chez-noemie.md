@@ -1,10 +1,10 @@
 ---
-id: 496
+#id: 496
 title: chez Noémie
 date: 2009-03-14T16:19:18+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=496
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=496
 #permalink: /index.php/2009/03/14/chez-noemie/
 categories:
   - Appunti

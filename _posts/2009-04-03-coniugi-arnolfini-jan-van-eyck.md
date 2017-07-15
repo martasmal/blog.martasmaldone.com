@@ -1,10 +1,10 @@
 ---
-id: 729
+#id: 729
 title: Coniugi Arnolfini, (Jan Van Eyck)
 date: 2009-04-03T15:12:16+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=729
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=729
 #permalink: /index.php/2009/04/03/coniugi-arnolfini-jan-van-eyck/
 categories:
   - r_itals

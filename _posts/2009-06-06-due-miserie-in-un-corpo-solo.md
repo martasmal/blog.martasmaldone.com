@@ -1,10 +1,10 @@
 ---
-id: 308
+#id: 308
 title: Due miserie in un corpo solo
 date: 2009-06-06T17:35:08+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=308
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=308
 #permalink: /index.php/2009/06/06/due-miserie-in-un-corpo-solo/
 categories:
   - Italia

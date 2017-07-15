@@ -1,10 +1,10 @@
 ---
-id: 2673
+#id: 2673
 title: in rue Rogier
 date: 2011-02-23T09:15:57+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=2673
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=2673
 #permalink: /index.php/2011/02/23/in-rue-rogier/
 categories:
   - Appunti

@@ -1,10 +1,10 @@
 ---
-id: 426
+#id: 426
 title: maastricht_13 june
 date: 2009-06-14T13:43:54+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=426
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=426
 #permalink: /index.php/2009/06/14/maastricht_13-june/
 categories:
   - Appunti

@@ -1,10 +1,10 @@
 ---
-id: 1459
+#id: 1459
 title: Rosenheim, Bavaria
 date: 2010-07-11T09:48:00+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=1459
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=1459
 #permalink: /index.php/2010/07/11/litzldorf/
 categories:
   - Appunti

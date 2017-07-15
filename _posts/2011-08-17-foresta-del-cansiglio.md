@@ -1,10 +1,10 @@
 ---
-id: 1693
+#id: 1693
 title: Foresta del Cansiglio
 date: 2011-08-17T12:29:59+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=1693
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=1693
 #permalink: /index.php/2011/08/17/foresta-del-cansiglio/
 categories:
   - Appunti

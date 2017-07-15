@@ -1,10 +1,10 @@
 ---
-id: 1576
+#id: 1576
 title: Hotel room in Oy-Mittelberg Allgäu
 date: 2010-04-05T16:23:44+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=1576
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=1576
 #permalink: /index.php/2010/04/05/hotel-in-oy-mittelberg-allgau/
 categories:
   - Appunti

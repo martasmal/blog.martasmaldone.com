@@ -1,10 +1,10 @@
 ---
-id: 3544
+#id: 3544
 title: Villamare
 date: 2005-08-10T10:17:34+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=3544
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=3544
 ##permalink: /index.php/2005/08/10/villamare/
 categories:
   - Appunti

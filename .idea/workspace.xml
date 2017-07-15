@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="944aa135-fb62-40e0-8ecf-9610e0f7c68e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2005-08-10-villamare.md" afterPath="$PROJECT_DIR$/_posts/2005-08-10-villamare.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2005-09-02-republika-hrvatska.md" afterPath="$PROJECT_DIR$/_posts/2005-09-02-republika-hrvatska.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2006-04-11-3837.md" afterPath="$PROJECT_DIR$/_posts/2006-04-11-3837.md" />
@@ -44,8 +43,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-03-20-bozar_mcattelan.md" afterPath="$PROJECT_DIR$/_posts/2009-03-20-bozar_mcattelan.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-03-29-random-in-bruxelles.md" afterPath="$PROJECT_DIR$/_posts/2009-03-29-random-in-bruxelles.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-04-03-coniugi-arnolfini-jan-van-eyck.md" afterPath="$PROJECT_DIR$/_posts/2009-04-03-coniugi-arnolfini-jan-van-eyck.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-04-18-naufragi.md" afterPath="$PROJECT_DIR$/_posts/2009-04-18-naufragi.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-04-21-matonge.md" afterPath="$PROJECT_DIR$/_posts/2009-04-21-matonge.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-04-30-termini_30-aprile-09.md" afterPath="$PROJECT_DIR$/_posts/2009-04-30-termini_30-aprile-09.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-02-mots-cles.md" afterPath="$PROJECT_DIR$/_posts/2009-05-02-mots-cles.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-04-marghera.md" afterPath="$PROJECT_DIR$/_posts/2009-05-04-marghera.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-18-ismael.md" afterPath="$PROJECT_DIR$/_posts/2009-05-18-ismael.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-21-lustin.md" afterPath="$PROJECT_DIR$/_posts/2009-05-21-lustin.md" />
@@ -54,20 +55,50 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-24-docce-per-i-capo-minatori.md" afterPath="$PROJECT_DIR$/_posts/2009-05-24-docce-per-i-capo-minatori.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-28-pp.md" afterPath="$PROJECT_DIR$/_posts/2009-05-28-pp.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-29-liege.md" afterPath="$PROJECT_DIR$/_posts/2009-05-29-liege.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-30-italiani-brava-gente-di-emigranti.md" afterPath="$PROJECT_DIR$/_posts/2009-05-30-italiani-brava-gente-di-emigranti.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-30-liege_numero-14.md" afterPath="$PROJECT_DIR$/_posts/2009-05-30-liege_numero-14.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-01-non-ho-campanile-ne-culto-dialettale.md" afterPath="$PROJECT_DIR$/_posts/2009-06-01-non-ho-campanile-ne-culto-dialettale.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-02-alla-mia-nazione.md" afterPath="$PROJECT_DIR$/_posts/2009-06-02-alla-mia-nazione.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-02-paz.md" afterPath="$PROJECT_DIR$/_posts/2009-06-02-paz.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-03-iii.md" afterPath="$PROJECT_DIR$/_posts/2009-06-03-iii.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-04-fare-mondimaking-worlds.md" afterPath="$PROJECT_DIR$/_posts/2009-06-04-fare-mondimaking-worlds.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-04-fotogramma-zer0.md" afterPath="$PROJECT_DIR$/_posts/2009-06-04-fotogramma-zer0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-05-come-un-sogno-a-puntate-quelli-che-ritornano-23-volte-al-mese-sistemeticamente.md" afterPath="$PROJECT_DIR$/_posts/2009-06-05-come-un-sogno-a-puntate-quelli-che-ritornano-23-volte-al-mese-sistemeticamente.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-05-einstellung.md" afterPath="$PROJECT_DIR$/_posts/2009-06-05-einstellung.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-05-les-ritals.md" afterPath="$PROJECT_DIR$/_posts/2009-06-05-les-ritals.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-05-linnocenza-e-una-colpa.md" afterPath="$PROJECT_DIR$/_posts/2009-06-05-linnocenza-e-una-colpa.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-06-due-miserie-in-un-corpo-solo.md" afterPath="$PROJECT_DIR$/_posts/2009-06-06-due-miserie-in-un-corpo-solo.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-14-maastricht_13-june.md" afterPath="$PROJECT_DIR$/_posts/2009-06-14-maastricht_13-june.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-16-profezia.md" afterPath="$PROJECT_DIR$/_posts/2009-06-16-profezia.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-17-charleroi.md" afterPath="$PROJECT_DIR$/_posts/2009-06-17-charleroi.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-17-wwwcomites-charleroibesettimana.md" afterPath="$PROJECT_DIR$/_posts/2009-06-17-wwwcomites-charleroibesettimana.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-20-luna-park-di-corrotti.md" afterPath="$PROJECT_DIR$/_posts/2009-06-20-luna-park-di-corrotti.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-21-lutherblisset_kareneliot.md" afterPath="$PROJECT_DIR$/_posts/2009-06-21-lutherblisset_kareneliot.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-22-lintelligenza-non-avra-mai-peso.md" afterPath="$PROJECT_DIR$/_posts/2009-06-22-lintelligenza-non-avra-mai-peso.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-22-pasolini-lenrage.md" afterPath="$PROJECT_DIR$/_posts/2009-06-22-pasolini-lenrage.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-22-stroligut-di-ca-da-laga.md" afterPath="$PROJECT_DIR$/_posts/2009-06-22-stroligut-di-ca-da-laga.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-24-stalker.md" afterPath="$PROJECT_DIR$/_posts/2009-06-24-stalker.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-29-media.md" afterPath="$PROJECT_DIR$/_posts/2009-06-29-media.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-30-l-etranger-cest-moi.md" afterPath="$PROJECT_DIR$/_posts/2009-06-30-l-etranger-cest-moi.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-30-la-mina.md" afterPath="$PROJECT_DIR$/_posts/2009-06-30-la-mina.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-30-les-mineurs-du-pays-de-charleroi.md" afterPath="$PROJECT_DIR$/_posts/2009-06-30-les-mineurs-du-pays-de-charleroi.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-30-o-belgio-mio.md" afterPath="$PROJECT_DIR$/_posts/2009-06-30-o-belgio-mio.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-06-30-ritalie.md" afterPath="$PROJECT_DIR$/_posts/2009-06-30-ritalie.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-02-anne-morelli.md" afterPath="$PROJECT_DIR$/_posts/2009-07-02-anne-morelli.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-02-gino-girardelli_compagno-minatore.md" afterPath="$PROJECT_DIR$/_posts/2009-07-02-gino-girardelli_compagno-minatore.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-02-la-clandestinita-in-italia-e-reato.md" afterPath="$PROJECT_DIR$/_posts/2009-07-02-la-clandestinita-in-italia-e-reato.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-02-litalia-si-vende-per-un-sacco-di-carbone.md" afterPath="$PROJECT_DIR$/_posts/2009-07-02-litalia-si-vende-per-un-sacco-di-carbone.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-05-mj-memory.md" afterPath="$PROJECT_DIR$/_posts/2009-07-05-mj-memory.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-06-neda.md" afterPath="$PROJECT_DIR$/_posts/2009-07-06-neda.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-08-hoda-barakat.md" afterPath="$PROJECT_DIR$/_posts/2009-07-08-hoda-barakat.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-13-rond-point-schuman.md" afterPath="$PROJECT_DIR$/_posts/2009-07-13-rond-point-schuman.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-15-occupation-place-st-lazare.md" afterPath="$PROJECT_DIR$/_posts/2009-07-15-occupation-place-st-lazare.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-16-calle-sophie.md" afterPath="$PROJECT_DIR$/_posts/2009-07-16-calle-sophie.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-16-open-screen_cinema-nova.md" afterPath="$PROJECT_DIR$/_posts/2009-07-16-open-screen_cinema-nova.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-17-aaa.md" afterPath="$PROJECT_DIR$/_posts/2009-07-17-aaa.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-17-disobbedienza-civile.md" afterPath="$PROJECT_DIR$/_posts/2009-07-17-disobbedienza-civile.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-07-20-tillmans.md" afterPath="$PROJECT_DIR$/_posts/2009-07-20-tillmans.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-08-07-1912-congresso-degli-stati-uniti-rapporto-sugli-immigrati-italiani.md" afterPath="$PROJECT_DIR$/_posts/2009-08-07-1912-congresso-degli-stati-uniti-rapporto-sugli-immigrati-italiani.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-08-10-02pescespada.md" afterPath="$PROJECT_DIR$/_posts/2009-08-10-02pescespada.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-08-10-a-pescespada.md" afterPath="$PROJECT_DIR$/_posts/2009-08-10-a-pescespada.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-09-15-performancechoreography-on-rooftops.md" afterPath="$PROJECT_DIR$/_posts/2009-09-15-performancechoreography-on-rooftops.md" />
@@ -131,6 +162,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-08-01-estate.md" afterPath="$PROJECT_DIR$/_posts/2012-08-01-estate.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-08-25-villa.md" afterPath="$PROJECT_DIR$/_posts/2012-08-25-villa.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-08-26-sapri.md" afterPath="$PROJECT_DIR$/_posts/2012-08-26-sapri.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-09-01-exposition-b-y-t-e-at-tourtaxis.md" afterPath="$PROJECT_DIR$/_posts/2012-09-01-exposition-b-y-t-e-at-tourtaxis.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-09-03-breakfast-in-meersburg.md" afterPath="$PROJECT_DIR$/_posts/2012-09-03-breakfast-in-meersburg.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-09-26-2646.md" afterPath="$PROJECT_DIR$/_posts/2012-09-26-2646.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-09-29-election-in-antwerp.md" afterPath="$PROJECT_DIR$/_posts/2012-09-29-election-in-antwerp.md" />
@@ -144,6 +176,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-01-29-serre-verso-rotterdam.md" afterPath="$PROJECT_DIR$/_posts/2013-01-29-serre-verso-rotterdam.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-03-10-tempesta.md" afterPath="$PROJECT_DIR$/_posts/2013-03-10-tempesta.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-04-13-tex.md" afterPath="$PROJECT_DIR$/_posts/2013-04-13-tex.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-06-27-apercu-memory-lane-chez-smart.md" afterPath="$PROJECT_DIR$/_posts/2013-06-27-apercu-memory-lane-chez-smart.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-12-01-a-room-with-a-view.md" afterPath="$PROJECT_DIR$/_posts/2013-12-01-a-room-with-a-view.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-12-02-bretagna.md" afterPath="$PROJECT_DIR$/_posts/2013-12-02-bretagna.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-03-30-sacrogra_bozar.md" afterPath="$PROJECT_DIR$/_posts/2014-03-30-sacrogra_bozar.md" />
@@ -152,6 +185,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-01-06-new-year.md" afterPath="$PROJECT_DIR$/_posts/2015-01-06-new-year.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-02-20-time-capsule-josaphat-occupart_-14-02-2015friche-josaphat.md" afterPath="$PROJECT_DIR$/_posts/2015-02-20-time-capsule-josaphat-occupart_-14-02-2015friche-josaphat.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-08-13-olea-europaea_study-i-crete.md" afterPath="$PROJECT_DIR$/_posts/2015-08-13-olea-europaea_study-i-crete.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-19-why-i-found-aa-vv.md" afterPath="$PROJECT_DIR$/_posts/2016-03-19-why-i-found-aa-vv.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-03-hotel-room-in-shibu-onsen.md" afterPath="$PROJECT_DIR$/_posts/2016-04-03-hotel-room-in-shibu-onsen.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-08-limpero-dei-segni.md" afterPath="$PROJECT_DIR$/_posts/2016-04-08-limpero-dei-segni.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-04-12-hotel-room-_kyoto.md" afterPath="$PROJECT_DIR$/_posts/2016-04-12-hotel-room-_kyoto.md" />
@@ -168,12 +202,38 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2005-08-10-villamare.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2005-08-10-villamare.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2005-08-10-villamare.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-21-usa.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-21-usa.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-10-20-lana.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-10-20-lana.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="210">
-                <caret line="14" column="149" lean-forward="false" selection-start-line="14" selection-start-column="149" selection-end-line="14" selection-end-column="149" />
+                <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -228,10 +288,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>permalink</find>
-      <find>site</find>
-      <find>b</find>
-      <find>blog</find>
       <find>blog.</find>
       <find>blog.ma</find>
       <find>blog.marta</find>
@@ -256,12 +312,22 @@
       <find>http://{</find>
       <find>http://</find>
       <find>http://{{ site.url }}/uploads/</find>
+      <find>layout: post</find>
+      <find>layout: pa</find>
+      <find>layout: pages</find>
+      <find>admin6059</find>
+      <find>guid:</find>
+      <find>id:</find>
     </findStrings>
     <replaceStrings>
       <replace>#permalink</replace>
       <replace>{{ site.url }}</replace>
       <replace />
       <replace>{{ site.url }}/images/uploads/</replace>
+      <replace>layout: post</replace>
+      <replace>marta smaldone</replace>
+      <replace>#guid:</replace>
+      <replace>#id:</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -277,6 +343,8 @@
         <option value="$PROJECT_DIR$/_posts/2005-09-02-republika-hrvatska.md" />
         <option value="$PROJECT_DIR$/_posts/2008-04-07-madrid.md" />
         <option value="$PROJECT_DIR$/_posts/2005-08-10-villamare.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-21-usa.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-10-20-lana.md" />
       </list>
     </option>
   </component>
@@ -361,6 +429,72 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blog.martasmaldone.com" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blog.martasmaldone.com" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blog.martasmaldone.com" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="blog.martasmaldone.com" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -376,8 +510,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -416,14 +551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/3953273590_704e3899d5_m.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -440,11 +567,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2005-08-10-villamare.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-21-usa.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-10-20-lana.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
-            <caret line="14" column="149" lean-forward="false" selection-start-line="14" selection-start-column="149" selection-end-line="14" selection-end-column="149" />
+            <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />

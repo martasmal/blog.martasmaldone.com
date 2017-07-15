@@ -1,10 +1,10 @@
 ---
-id: 2957
+#id: 2957
 title: in a restaurant_Rotterdam
 date: 2013-01-29T14:32:25+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=2957
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=2957
 #permalink: /index.php/2013/01/29/bar_rotterdam/
 categories:
   - Appunti

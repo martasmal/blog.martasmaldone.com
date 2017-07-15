@@ -1,10 +1,10 @@
 ---
-id: 1656
+#id: 1656
 title: autour de Thieffry
 date: 2009-01-28T09:43:33+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=1656
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=1656
 #permalink: /index.php/2009/01/28/autour-de-thieffry/
 categories:
   - Appunti

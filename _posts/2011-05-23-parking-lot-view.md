@@ -1,10 +1,10 @@
 ---
-id: 2678
+#id: 2678
 title: parking lot view
 date: 2011-05-23T09:46:32+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=2678
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=2678
 #permalink: /index.php/2011/05/23/parking-lot-view/
 categories:
   - Appunti

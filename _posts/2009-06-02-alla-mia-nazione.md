@@ -1,10 +1,10 @@
 ---
-id: 30
+#id: 30
 title: Alla mia nazione
 date: 2009-06-02T10:45:50+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=30
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=30
 #permalink: /index.php/2009/06/02/alla-mia-nazione/
 categories:
   - Italia

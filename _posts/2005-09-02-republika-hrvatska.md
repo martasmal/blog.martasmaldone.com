@@ -1,10 +1,10 @@
 ---
-id: 3396
+#id: 3396
 title: Hrvatska
 date: 2005-09-02T11:25:49+00:00
-author: admin6059
-layout: pages
-guid: http://{{ site.url }}/?p=3396
+author: marta smaldone
+layout: post
+#gu#id: http://{{ site.url }}/?p=3396
 #permalink: /index.php/2005/09/02/republika-hrvatska/
 categories:
   - Appunti

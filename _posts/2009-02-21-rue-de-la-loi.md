@@ -1,10 +1,10 @@
 ---
-id: 846
+#id: 846
 title: rue de la loi
 date: 2009-02-21T18:07:49+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=846
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=846
 #permalink: /index.php/2009/02/21/rue-de-la-loi/
 categories:
   - Appunti

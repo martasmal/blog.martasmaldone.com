@@ -1,10 +1,10 @@
 ---
-id: 598
+#id: 598
 title: LutherBlisset_KarenEliot
 date: 2009-06-21T12:39:38+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wordpress/?p=598
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wordpress/?p=598
 #permalink: /index.php/2009/06/21/lutherblisset_kareneliot/
 categories:
   - Appunti

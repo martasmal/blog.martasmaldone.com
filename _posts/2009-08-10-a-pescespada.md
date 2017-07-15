@@ -1,10 +1,10 @@
 ---
-id: 1064
+#id: 1064
 title: '[01]pescespada'
 date: 2009-08-10T14:38:53+00:00
-author: admin6059
-layout: pages
-guid: http://localhost/wp-martablog/?p=1064
+author: marta smaldone
+layout: post
+#gu#id: http://localhost/wp-martablog/?p=1064
 #permalink: /index.php/2009/08/10/a-pescespada/
 categories:
   - Appunti
