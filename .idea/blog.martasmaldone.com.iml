@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="blog1.martasmaldone.com" />
     <orderEntry type="module" module-name="epsilon.martasmaldone.com" />
+    <orderEntry type="module" module-name="www.aavv.io" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

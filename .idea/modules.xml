@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/blog.martasmaldone.com.iml" filepath="$PROJECT_DIR$/.idea/blog.martasmaldone.com.iml" />
       <module fileurl="file://$PROJECT_DIR$/../epsilon.martasmaldone.com/.idea/epsilon.martasmaldone.com.iml" filepath="$PROJECT_DIR$/../epsilon.martasmaldone.com/.idea/epsilon.martasmaldone.com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../www.aavv.io/.idea/www.aavv.io.iml" filepath="$PROJECT_DIR$/../www.aavv.io/.idea/www.aavv.io.iml" />
     </modules>
   </component>
 </project>
